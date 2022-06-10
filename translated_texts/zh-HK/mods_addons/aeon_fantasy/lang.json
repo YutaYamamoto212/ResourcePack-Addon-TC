@@ -1,0 +1,12 @@
+﻿{
+  "item.spawn_egg.entity.ravemon:carbancle.name": "§fSpawn §bCarbancle §r(§5bFinal Fantasy§r)",
+  "item.spawn_egg.entity.ravemon:diablos.name": "§fSpawn §4Diablos §t(§5Final Fantasy§r)",
+  "item.spawn_egg.entity.ravemon:ifrit.name": "§fSpawn §eIfrit §r(§5Final Fantasy§r)",
+  "item.spawn_egg.entity.bridge:vivi.name": "§fSpawn §2Vivi §r(§5Final Fantasy§r)",
+  "item.spawn_egg.entity.finalfantasy:siren.name": "§fSpawn §bSiren §r(§5Final Fantasy§r)",
+  "item.spawn_egg.entity.aeon:lulu.name": "§fSpawn §dLulu §r(§5Final Fantsy§r)",
+  "item.spawn_egg.entity.finalfantasy:chocobo.name": "§fSpawn §eChococbo §r(§5Final Fantasy§r)",
+  "entity.finalfantasy:siren.name": "§bSiren",
+  "entity.animal:ender_creeper.name": "終界 Creeper",
+  "entity.animal:ender_skeleton.name": "終界骷髏骨"
+}
