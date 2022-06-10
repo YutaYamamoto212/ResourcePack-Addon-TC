@@ -1,0 +1,12 @@
+{
+  "item.spawn_egg.entity.mf:jhammerd.name": "§l§3Diamond Jack Hammer Spawn",
+  "entity.mf:jhammerd.name": "§l§3Diamond Jack Hammer",
+  "item.spawn_egg.entity.mf:jhammerg.name": "§l§eGold Jack Hammer Spawn",
+  "entity.mf:jhammerg.name": "§l§eGold Jack Hammer",
+  "item.spawn_egg.entity.mf:jhammeri.name": "§l§8Iron Jack Hammer Spawn",
+  "entity.mf:jhammeri.name": "§l§8Iron Jack Hammer",
+  "item.spawn_egg.entity.mf:peso.name": "§lMine Ball Spawn",
+  "entity.mf:peso.name": "§lMine Ball",
+  "item.spawn_egg.entity.mf:mdrill.name": "§l§aMine Drill Spawn",
+  "entity.mf:mdrill.name": "§l§aMine Drill Spawn"
+}
