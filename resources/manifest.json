@@ -1,0 +1,42 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "提供基岩版模組/附加包的翻譯，並修正原版錯誤的繁體中文翻譯，以及新增香港版中文翻譯。歡迎加入我的 Discord 伺服器來參與討論: https://discord.gg/tqzdEaBAcn",
+    "name": "繁體中文基岩版模組與附加包的翻譯包 v1.1.0",
+    "uuid": "82b6116c-1e52-4714-aac3-3404a8e90c43",
+    "version": [
+      1,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "提供基岩版模組/附加包的翻譯，並修正原版錯誤的繁體中文翻譯，以及新增香港版中文翻譯。歡迎加入我的 Discord 伺服器來參與討論: https://discord.gg/tqzdEaBAcn",
+      "type": "resources",
+      "uuid": "92efff2d-05de-4190-818d-f56e4c601050",
+      "version": [
+        1,
+        1,
+        0
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "zh_HK",
+      "name": "繁體中文 (香港)",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "zh_TW",
+      "name": "繁體中文 (台灣)",
+      "memory_tier": 1
+    }
+  ]
+}
