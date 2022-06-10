@@ -1,0 +1,6 @@
+{
+  "item.true:backpack_item.name": "§6Backpack",
+  "item.true:glove.name": "remove backpack",
+  "backpack": "Backpack",
+  "item.true:ender_bag.name": "Ender bag"
+}
