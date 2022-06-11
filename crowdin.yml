@@ -1,0 +1,3 @@
+files:
+  - source: original_texts/mods_addons/*.json
+    translation: translated_texts/%locale_with_underscore%/mods_addons/*.json
