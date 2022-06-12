@@ -1,0 +1,15 @@
+{
+  "entity.bumble:firefly.name": "Firefly",
+  "item.spawn_egg.entity.bumble:firefly.name": "Spawn Firefly",
+  "entity.bumble:firefly_blue.name": "Blue Firefly",
+  "item.spawn_egg.entity.bumble:firefly_blue.name": "Spawn Blue Firefly",
+  "entity.bumble:firefly_red.name": "Red Firefly",
+  "item.spawn_egg.entity.bumble:firefly_red.name": "Spawn Red Firefly",
+  "entity.bumble:firefly_jar.name": "Jarred Firefly",
+  "item.bumble:firefly_bottle": "Bottled Firefly",
+  "item.bumble:firefly_bottle_blue": "Bottled Blue Firefly",
+  "item.bumble:firefly_bottle_red": "Bottled Red Firefly",
+  "item.bumble:glass_jar": "Glass Jar",
+  "tile.bumble:glass_jar_block": "Glass Jar",
+  "action.interact.catch": "Catch"
+}

@@ -1,0 +1,23 @@
+{
+  "item.spawn_egg.entity.p959:red1.name": "'86 Porsche 959 (Red)",
+  "item.spawn_egg.entity.p959:green1.name": "'86 Porsche 959 (Green)",
+  "item.spawn_egg.entity.p959:white1.name": "'86 Porsche 959 (White)",
+  "item.spawn_egg.entity.p959:silver1.name": "'86 Porsche 959 (Silver)",
+  "item.spawn_egg.entity.p959:orange1.name": "'86 Porsche 959 (Orange)",
+  "item.spawn_egg.entity.p959:dakar1.name": "'86 Porsche 959 (Rothmans - Paris Dakar Rally)",
+  "item.spawn_egg.entity.p959:white_r1.name": "'86 Porsche 959 (White - Rally)",
+  "action.hint.exit.p959:red2": "§l§bRally Hypercar",
+  "action.hint.exit.p959:green2": "§l§bRally Hypercar",
+  "action.hint.exit.p959:orange2": "§l§bRally Hypercar",
+  "action.hint.exit.p959:white2": "§l§bRally Hypercar",
+  "action.hint.exit.p959:silver2": "§l§bRally Hypercar",
+  "action.hint.exit.p959:dakar2": "§l§bRally Hypercar",
+  "action.hint.exit.p959:white_r2": "§l§bRally Hypercar",
+  "entity.p959:red2.name": "a '86 Porsche 959.",
+  "entity.p959:orange2.name": "a '86 Porsche 959.",
+  "entity.p959:white2.name": "a '86 Porsche 959.",
+  "entity.p959:silver2.name": "a '86 Porsche 959.",
+  "entity.p959:green2.name": "a '86 Porsche 959.",
+  "entity.p959:dakar2.name": "a '86 Porsche 959.",
+  "entity.p959:white_r2.name": "a '86 Porsche 959."
+}
