@@ -1,21 +1,7 @@
 {
-  "tile.v:revive_table.name": "復活台",
-  "tile.v:glowing_obsidian_new.name": "發光的黑曜石",
-  "item.spawn_egg.entity.v:wild_ravager.name": "野生劫毀獸 生怪蛋",
-  "entity.v:wild_ravager.name": "野生劫毀獸",
-  "entity.v:excavator_illager.name": "窳民開鑿者",
-  "item.spawn_egg.entity.v:excavator_illager.name": "窳民開鑿者 生怪蛋",
-  "entity.v:dark_witch.name": "黑暗女巫",
-  "item.spawn_egg.entity.v:dark_witch.name": "黑暗女巫 生怪蛋",
-  "tile.v:kyanite_block.name": "藍晶石方塊",
-  "tile.v:topaz_block.name": "黃玉方塊",
-  "tile.v:garnet_block.name": "石榴石方塊",
-  "tile.v:garnet_ore.name": "石榴石礦",
-  "tile.v:kyanite_ore.name": "藍晶石礦",
-  "tile.v:topaz_ore.name": "黃玉礦",
-  "entity.v:villager_warrior.name": "村民戰士",
-  "item.spawn_egg.entity.v:villager_warrior.name": "村民戰士 生怪蛋",
-  "tile.v:deepslate_garnet_ore.name": "深板岩石榴石礦",
-  "tile.v:deepslate_kyanite_ore.name": "深板岩藍晶石礦",
-  "tile.v:deepslate_topaz_ore.name": "深板岩黃玉礦"
+  "item.spawn_egg.entity.adn:helicopter.name": "直升機",
+  "tile.adn:helicopter_crafter.name": "直升機工作台",
+  "tile.adn:fuel_maker_block.name": "燃料創造機",
+  "entity.adn:helicopter.name": "直升機",
+  "action.interact.add_fuel": "添加燃料"
 }
