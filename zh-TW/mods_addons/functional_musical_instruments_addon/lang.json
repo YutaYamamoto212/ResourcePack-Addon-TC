@@ -1,0 +1,19 @@
+{
+  "item.spawn_egg.entity.mi:drums.name": "鼓",
+  "entity.mi:drums.name": "鼓",
+  "action.hint.exit.mi:drums": "§o搖滾樂！",
+  "entity.mi:kalimba.name": "卡林巴",
+  "item.spawn_egg.entity.mi:kalimba.name": "卡林巴",
+  "item.spawn_egg.entity.mi:harp.name": "豎琴",
+  "entity.mi:harp.name": "豎琴",
+  "item.spawn_egg.entity.mi:harmonica1.name": "口琴 1",
+  "entity.mi:harmonica1.name": "口琴 1",
+  "item.spawn_egg.entity.mi:harmonica2.name": "口琴 2",
+  "entity.mi:harmonica2.name": "口琴 2",
+  "item.spawn_egg.entity.mi:xylophone.name": "木琴",
+  "entity.mi:xylophone.name": "木琴",
+  "item.spawn_egg.entity.mi:mic.name": "麥克風",
+  "entity.mi:mic.name": "麥克風",
+  "item.spawn_egg.entity.mi:lyre.name": "里拉琴",
+  "entity.mi:lyre.name": "里拉琴"
+}
