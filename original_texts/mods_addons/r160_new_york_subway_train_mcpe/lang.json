@@ -1,6 +1,0 @@
-{
-  "item.spawn_egg.entity.MTMB:R160.name": "Spawn R160 NY train",
-  "entity.MTMB:R160.name": "R160-NYtrain",
-  "accessibility.disableTTS": "Text To Speech disabled",
-  "accessibility.enableTTS": "Text To Speech enabled"
-}

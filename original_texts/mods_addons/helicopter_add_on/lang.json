@@ -1,7 +1,0 @@
-{
-  "item.spawn_egg.entity.adn:helicopter.name": "Helicopter",
-  "tile.adn:helicopter_crafter.name": "helicopter crafting table",
-  "tile.adn:fuel_maker_block.name": "Fuel Creator",
-  "entity.adn:helicopter.name": "Helicopter",
-  "action.interact.add_fuel": "Add Fuel"
-}

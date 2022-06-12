@@ -1,8 +1,0 @@
-{
-  "action.hint.exit.bd:huggy_wuggy_bd": "HUG",
-  "action.interact.ride.bd:huggy_wuggy_bd": "Open",
-  "entity.bd:huggy_wuggy_bd.name": "Huggy Wuggy",
-  "item.spawn_egg.entity.bd:huggy_wuggy_bd.name": "Spawn Huggy Wuggy",
-  "tile.bd:huggy_wuggy_bd_statue.name": "Huggy Wuggy Statue",
-  "tile.bd:huggy_wuggy_bd_statue_map.name": "Huggy Wuggy Statue (For map making)"
-}
