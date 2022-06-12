@@ -1,1 +1,10 @@
-﻿{}
+﻿{
+  "action.hint.exit.unknown": "輕觸潛行以取消乘坐",
+  "action.hint.exit.goodlord:mech": "輕觸潛行以取消乘坐",
+  "action.hint.exit.goodlord:jetpack": "輕觸潛行以取消乘坐",
+  "action.hint.exit.goodlord:mech_drill": "輕觸潛行以取消乘坐",
+  "action.hint.exit.goodlord:mech3": "輕觸潛行以取消乘坐",
+  "action.hint.exit.goodlord:space_jetpack": "輕觸潛行以取消乘坐",
+  "action.hint.exit.goodlord:large_miner": "輕觸潛行以取消乘坐",
+  "action.hint.exit.goodlord:class8_fighter": "輕觸潛行以取消乘坐"
+}
