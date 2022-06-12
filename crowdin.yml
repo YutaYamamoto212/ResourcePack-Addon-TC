@@ -1,3 +1,6 @@
 files:
   - source: mods_addons/*/*.json
+    ignore:
+      - zh_HK
+      - zh_TW
     translation: '%original_path%/%original_file_name%'
