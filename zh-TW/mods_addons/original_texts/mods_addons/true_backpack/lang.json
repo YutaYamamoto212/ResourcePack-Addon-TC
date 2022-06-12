@@ -1,0 +1,6 @@
+{
+  "item.true:backpack_item.name": "§6背包",
+  "item.true:glove.name": "移除背包",
+  "backpack": "背包",
+  "item.true:ender_bag.name": "終界背包"
+}
