@@ -1,3 +1,0 @@
-files:
-  - source: original_texts/mods_addons/*/*.json
-    translation: mods_addons/%original_path%/%original_file_name%
