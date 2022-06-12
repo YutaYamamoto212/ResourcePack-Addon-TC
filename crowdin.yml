@@ -1,3 +1,3 @@
 files:
   - source: original_texts/mods_addons/*/*.json
-    translation: '%language%/translated_texts/mods_addons/%original_path%/%original_file_name%'
+    translation: mods_addons/%original_path%/%original_file_name%
