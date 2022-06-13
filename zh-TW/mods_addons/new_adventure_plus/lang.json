@@ -1,1 +1,27 @@
-{}
+{
+  "entity.guardian:duck.name": "鴨子",
+  "entity.guardian:fiend.name": "惡魔",
+  "entity.guardian:seagull.name": "海鷗",
+  "entity.guardian:catfish.name": "鯰魚",
+  "entity.guardian:scorpion.name": "毒蠍",
+  "entity.guardian:nautilus.name": "鸚鵡螺",
+  "entity.twot:copper_golem.name": "銅魔像",
+  "entity.guardian:red_phantom.name": "紅色夜魅",
+  "entity.guardian:old_spider.name": "棕色蜘蛛",
+  "entity.guardian:drowned_husk.name": "沉屍殼",
+  "entity.guardian:spider_illager.name": "蜘蛛窳民",
+  "entity.guardian:brute_enderman.name": "終界使者蠻兵",
+  "entity.guardian:white_enderman.name": "白色終界使者",
+  "entity.guardian:stray_skeleton.name": "寒冰骷髏",
+  "entity.guardian:salmon_skeleton.name": "鮭魚骷髏",
+  "entity.guardian:pirate_pillager.name": "海盜掠奪者",
+  "entity.guardian:drowned_skeleton.name": "沉骷髏",
+  "entity.guardian:skeleton_quiver_for_arrows.name": "骷髏",
+  "entity.guardian:swordsman_pillager.name": "劍客掠奪者",
+  "entity.guardian:redstone_silverfish.name": "紅石蠹魚",
+  "entity.guardian:drowned_cartographer.name": "沉製圖師",
+  "item.spawn_egg.entity.guardian:duck.name": "鴨子 生怪蛋",
+  "item.spawn_egg.entity.guardian:fiend.name": "惡魔 生怪蛋",
+  "item.spawn_egg.entity.guardian:seagull.name": "海鷗 生怪蛋",
+  "item.spawn_egg.entity.guardian:catfish.name": "鯰魚 生怪蛋"
+}
