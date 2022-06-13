@@ -1,0 +1,7 @@
+files:
+  - source: '*.json'
+    ignore:
+      - zh-TW
+      - zh-HK
+      - resources
+    translation: '%original_path%/%original_file_name%'
