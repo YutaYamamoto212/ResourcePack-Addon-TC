@@ -1,1 +1,5 @@
-﻿{}
+﻿{
+  "entity.goodlord:glyde_wyvern.name": "格萊德飛龍",
+  "item.spawn_egg.entity.goodlord:glyde_wyvern.name": "格萊德飛龍 生成蛋",
+  "entity.goodlord:dragon_egg_glyde_wyvern.name": "格萊德飛龍蛋"
+}
