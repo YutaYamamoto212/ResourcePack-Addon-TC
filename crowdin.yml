@@ -4,4 +4,5 @@ files:
       - zh-TW
       - zh-HK
       - resources
+      - vanilla
     translation: '%original_path%/%original_file_name%'
