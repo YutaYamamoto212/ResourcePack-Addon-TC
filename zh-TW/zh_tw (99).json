@@ -1,0 +1,18 @@
+{
+  "menu.howToPlay": "§l現代家具指南",
+  "howtoplay.category.dakon": "§l現代家具指南",
+  "howtoplay.template": "§l合成",
+  "howtoplay.template.title": "§l合成",
+  "template.header.title0": "如何合成",
+  "dakon.template.text0": "為了能夠在創造模式中獲得它，可以像在生存模式中一樣獲得它，但即便如此，如果你在聊天欄中寫 /give @p f:（家具列表將出現在聊天中，選擇你想要的）或尋找它在創造模式物品欄的裝飾部分。在生存模式中，您可以藉由將黏土放入切石機中來獲得它。然後從家具中建立一個您想要的主題的盒子並將其放回切石機中。",
+  "template.header.title1": "如何按模組使用方塊",
+  "dakon.template.text1": "這些方塊主要是沙發雖然也有桌子，但你必須有一個模組在你的名字，有 4 種類型：左角、右角、中間和轉角。",
+  "howtoplay.tempone": "§l條款",
+  "howtoplay.tempone.title": "§l條款與條件",
+  "tempone.header.title0": "條款與條件",
+  "dakon.tempone.text0": "要在地圖上使用此附加包，您必須提供憑據，禁止重新上傳或重新發布附加包。",
+  "tempone.header.title1": "範本一",
+  "dakon.tempone.text1": "新",
+  "pack.name": "§l現代家具的必要功能",
+  "pack.description": "§l如果您在 1.18.10 以後的版本中玩遊戲，則需要啟用此附加包"
+}

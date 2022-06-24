@@ -1,0 +1,20 @@
+{
+  "tile.oh:ruby_ore.name": "紅寶石礦",
+  "tile.oh:jade_ore.name": "翡翠礦",
+  "tile.oh:tin_ore.name": "錫礦",
+  "tile.oh:ruby_block.name": "紅寶石方塊",
+  "tile.oh:jade_block.name": "翡翠方塊",
+  "tile.oh:onyx_ore.name": "縞瑪瑙礦",
+  "tile.oh:onyx_block.name": "縞瑪瑙方塊",
+  "tile.oh:enderite_ore.name": "終髓礦",
+  "tile.oh:enderite_block.name": "終髓方塊",
+  "tile.oh:ruby_ore_d.name": "深板岩紅寶石礦",
+  "tile.oh:jade_ore_d.name": "深板岩翡翠礦",
+  "tile.oh:onyx_ore_d.name": "深板岩縞瑪瑙礦",
+  "tile.oh:enderite_ore_d.name": "深板岩終髓礦",
+  "tile.oh:tin_ore_d.name": "深板岩錫礦",
+  "tile.oh:tin_block.name": "錫方塊",
+  "tile.oh:tourmaline_ore_d.name": "深板岩電氣石礦",
+  "tile.oh:tourmaline_block.name": "電氣石方塊",
+  "tile.oh:tourmaline_ore.name": "電氣石礦"
+}

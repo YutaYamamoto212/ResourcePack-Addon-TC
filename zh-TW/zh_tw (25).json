@@ -1,0 +1,18 @@
+{
+  "item.ea:amethyst_pickaxe.name": "紫水晶鎬",
+  "item.ea:amethyst_ingot.name": "紫水晶錠",
+  "item.ea:concentrated_amethyst.name": "濃縮紫水晶",
+  "item.ea:amethyst_axe.name": "紫水晶斧",
+  "item.ea:amethyst_sword.name": "紫水晶劍",
+  "item.ea:amethyst_shovel.name": "紫水晶鏟",
+  "item.ea:amethyst_hoe.name": "紫水晶鋤",
+  "item.ea:ring.name": "戒指",
+  "item.ea:amethyst_ring.name": "紫水晶戒指",
+  "item.ea:speed_ring.name": "加速紫水晶戒指§b",
+  "item.ea:amethyst_helmet.name": "紫水晶頭盔",
+  "item.ea:amethyst_chestplate.name": "紫水晶胸甲",
+  "item.ea:amethyst_leggings.name": "紫水晶護腿",
+  "item.ea:amethyst_boots.name": "紫水晶靴子",
+  "tile.ea:chiseled_amethyst.name": "浮雕紫水晶",
+  "tile.ea:amethyst_reinforced_block.name": "強化紫水晶方塊"
+}
