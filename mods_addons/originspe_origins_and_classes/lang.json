@@ -433,8 +433,15 @@
   "origins.console_controls.bind.sneak": ":_input_key.sneak:",
   "origins.console_controls.bind.punch": ":_input_key.attack:",
   "origins.console_controls.bind.use": ":_input_key.use:",
-  "entity.origins": "starborne_projectile.name=Starborne's Shooting Star",
-  "action.hint.exit.origins": "shulk_inventory=Tap the Inventory tab to view your Shulk inventory",
-  "action.hint.exit.console.origins": "shulk_inventory=Press :_input_key.inventory: to view your Shulk inventory",
+  "entity.origins:burning_control.name": "Blazeborn's Wrath",
+  "entity.origins:enderian_pearl.name": "Enderian Pearl",
+  "entity.origins:phantom_control.name": "Phantomized Player",
+  "entity.origins:shulk_inventory.name": "Shulk Inventory",
+  "entity.origins:webbing_control.name": "Arachnid's Web",
+  "entity.origins:starborne_projectile.name": "Starborne's Shooting Star",
+  "action.hint.exit.origins:phantom_control": "hideactionbar",
+  "action.hint.exit.console.origins:phantom_control": "hideactionbar",
+  "action.hint.exit.origins:shulk_inventory": "Tap the Inventory tab to view your Shulk inventory",
+  "action.hint.exit.console.origins:shulk_inventory": "Press :_input_key.inventory: to view your Shulk inventory",
   "createWorldScreen.gameMode.spectator": "Spectator"
 }
