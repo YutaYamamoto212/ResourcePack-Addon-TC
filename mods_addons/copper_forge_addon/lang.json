@@ -1,0 +1,11 @@
+{
+  "item.copper:c_helmet": "§6Copper Helmet",
+  "item.copper:c_chestplate": "§6Copper Chestplate",
+  "item.copper:c_leggings": "§6Copper Leggings",
+  "item.copper:c_boots": "§6Copper Boots",
+  "item.copper:c_dynamo_runners": "Dynamo §6Runners",
+  "item.copper:c_chestplate_heat_resistant": "Heat Insulating §6Chestplate",
+  "item.copper:c_snow_heater_leggings": "Heat Conducting §6Leggings",
+  "item.copper:c_visor_helmet": "Visor §6Helmet",
+  "item.copper:c_booster_boots": "Jump Boosting §6boots"
+}
