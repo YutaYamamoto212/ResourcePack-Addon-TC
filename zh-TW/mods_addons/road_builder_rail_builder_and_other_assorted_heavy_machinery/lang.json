@@ -1,1 +1,8 @@
-﻿{}
+﻿{
+  "entity.goodlord:rail_tractor.name": "軌道建造者",
+  "entity.goodlord:highway_tractor.name": "高速公路建造者",
+  "action.interact.off_mode": "關閉",
+  "action.interact.mode1": "模式一",
+  "action.interact.mode2": "模式二",
+  "action.interact.mode3": "模式三"
+}

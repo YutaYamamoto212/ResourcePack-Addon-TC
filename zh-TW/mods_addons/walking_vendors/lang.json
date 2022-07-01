@@ -1,4 +1,6 @@
 {
+  "item.spawn_egg.entity.mn:misions_money_npc.name": "任務商人 生怪蛋",
+  "entity.mn:misions_money_npc.name": "任務商人",
   "accessibility.disableTTS": "文字轉換語音已停用",
   "accessibility.enableTTS": "文字轉換語音已啟用",
   "item.spawn_egg.entity.pa:fish_1.name": "魚 1 生怪蛋",
@@ -20,6 +22,7 @@
   "item.spawn_egg.entity.pa:jellyfish_3.name": "水母 3",
   "item.spawn_egg.entity.pa:shark_2.name": "鯊魚 2 生怪蛋",
   "item.spawn_egg.entity.pa:whale.name": "鯨魚 生怪蛋",
+  "item.spawn_egg.entity.pa:cachalote.name": "抹香鯨 生怪蛋",
   "item.spawn_egg.entity.pa:shrimp.name": "蝦子 生怪蛋",
   "item.spawn_egg.entity.pa:vulture.name": "禿鷹 生怪蛋",
   "item.spawn_egg.entity.pa:eagle.name": "老鷹 生怪蛋",
@@ -101,5 +104,6 @@
   "action.interact.patitas": "開啟",
   "action.interact.conducir": "潛水",
   "action.interact.sit ": " 坐",
-  "entity.unknown.name": "PA 物品欄"
+  "entity.unknown.name": "PA 物品欄",
+  "item.spawn_egg.entity.pa:piano.name": "鋼琴"
 }

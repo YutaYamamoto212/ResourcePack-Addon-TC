@@ -1,1 +1,6 @@
-﻿{}
+﻿{
+  "item.origins:shoot": "火焰彈 §7[use]",
+  "item.origins:random-teleport": "隨機傳送 §7[use]",
+  "item.origins:removed": "§4已移除",
+  "item.origins:ender_pearl-a": "終界珍珠 §7[use]"
+}

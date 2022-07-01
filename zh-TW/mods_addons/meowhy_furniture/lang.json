@@ -1,1 +1,14 @@
-{}
+{
+  "tile.mw:painting_gray.name": "§7灰色§r繪畫",
+  "tile.mw:pot_empty.name": "空鍋",
+  "tile.mw:painting_black.name": "§7黑色§r繪畫",
+  "tile.mw:painting_yellow.name": "§e黃色§r繪畫",
+  "tile.mw:painting_alex.name": "Alex繪畫",
+  "tile.mw:painting_red.name": "§c紅色§r繪畫",
+  "tile.mw:table1.name": "桌子",
+  "tile.mw:kitchen1.name": "廚房",
+  "tile.mw:window2_1x2.name": "窗戶 1x2",
+  "tile.mw:painting_empty.name": "繪畫(空)",
+  "tile.mw:painting_wolf.name": "繪畫(狼)",
+  "tile.mw:painting_campfire.name": "繪畫(營火)"
+}
