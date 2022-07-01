@@ -1,1 +1,15 @@
-{}
+{
+  "tile.door:glass_door.name": "玻璃門",
+  "tile.door:stained_glass_door_pink.name": "粉紅色玻璃門",
+  "tile.door:stained_glass_door_gray.name": "灰色玻璃門",
+  "tile.door:stained_glass_door_light_gray.name": "淺灰色玻璃門",
+  "tile.door:stained_glass_door_cyan.name": "青色玻璃門",
+  "tile.door:stained_glass_door_purple.name": "紫色玻璃門",
+  "tile.door:stained_glass_door_blue.name": "藍色玻璃門",
+  "tile.door:stained_glass_door_brown.name": "棕色玻璃門",
+  "tile.door:stained_glass_door_green.name": "綠色玻璃門",
+  "tile.door:stained_glass_door_red.name": "紅色玻璃門",
+  "tile.door:stained_glass_door_black.name": "黑色玻璃門",
+  "tile.door:terracotta_door.name": "陶土門",
+  "tile.door:terracotta_door_white.name": "白色陶土門"
+}
