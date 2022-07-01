@@ -144,6 +144,7 @@
   "item.spawn_egg.entity.animal:panther.name": "黑豹 生怪蛋",
   "item.spawn_egg.entity.animal:brown_mooshroom.name": "棕色哞菇 生怪蛋",
   "item.spawn_egg.entity.mooshroom.name": "紅色哞菇 生怪蛋",
+  "item.spawn_egg.entity.animal:emerged.name": "出現 生怪蛋",
   "item.spawn_egg.entity.animal:corrupted_skeleton.name": "腐化的骷髏 生怪蛋",
   "item.spawn_egg.entity.animal:npc.name": "NPC 生怪蛋",
   "item.spawn_egg.entity.animal:npc_scientist.name": "NPC 科學家 生怪蛋",
