@@ -9,9 +9,20 @@
   "tile.plankz:lightblueoakblock.name": "淺藍色橡木材",
   "tile.plankz:purpleoakblock.name": "紫色橡木材",
   "tile.plankz:pinkoakblock.name": "粉紅色橡木材",
+  "tile.plankz:magentaoakblock.name": "洋紅色橡木材",
   "tile.plankz:brownoakblock.name": "棕色橡木材",
   "tile.plankz:blackoakblock.name": "黑色橡木材",
   "tile.plankz:grayoakblock.name": "灰色橡木材",
   "tile.plankz:lightgrayoakblock.name": "淺灰色橡木材",
-  "tile.plankz:whiteoakblock.name": "白色橡木材"
+  "tile.plankz:whiteoakblock.name": "白色橡木材",
+  "tile.plankz:redspruceblock.name": "紅色杉木材",
+  "tile.plankz:orangespruceblock.name": "橙色杉木材",
+  "tile.plankz:yellowspruceblock.name": "黃色杉木材",
+  "tile.plankz:limespruceblock.name": "淺綠色杉木材",
+  "tile.plankz:greenspruceblock.name": "綠色杉木材",
+  "tile.plankz:cyanspruceblock.name": "青色杉木材",
+  "tile.plankz:bluespruceblock.name": "藍色杉木材",
+  "tile.plankz:lightbluespruceblock.name": "淺藍色杉木材",
+  "tile.plankz:purplespruceblock.name": "紫色杉木材",
+  "tile.plankz:pinkspruceblock.name": "粉紅色杉木材"
 }
