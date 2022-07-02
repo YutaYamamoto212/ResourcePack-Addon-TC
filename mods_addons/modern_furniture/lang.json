@@ -252,5 +252,19 @@
   "tile.f:mesamadera2.name": "Wooden bookcase",
   "tile.f:taburetemoderno3.name": "Modern stool",
   "tile.f:taburetemoderno2.name": "Modern stool",
-  "tile.f:taburetemoderno1.name": "Modern stool"
+  "tile.f:taburetemoderno1.name": "Modern stool",
+  "tile.f:yconducto1.name": "Vertical duct",
+  "tile.f:yconducto2.name": "Vertical duct",
+  "tile.f:yconducto3.name": "Vertical duct",
+  "tile.f:yconducto4.name": "Vertical duct",
+  "tile.f:yconducto5.name": "Vertical duct",
+  "tile.f:valla1.name": "Iron fence",
+  "tile.f:valla2.name": "Iron fence",
+  "tile.f:mundo.name": "World globe mockup",
+  "tile.f:mesa1.name": "Glass table",
+  "tile.f:mesa2.name": "Glass table",
+  "tile.f:papelera.name": "Paper bin",
+  "tile.f:bonsay.name": "Bonsai",
+  "tile.f:escalera1.name": "Stairs",
+  "tile.f:sillarus.name": "Wooden porch chair"
 }
