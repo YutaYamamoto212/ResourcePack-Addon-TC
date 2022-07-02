@@ -192,5 +192,6 @@
   "tile.m:xp_ore.name": "經驗礦",
   "tile.m:raw_tin_block.name": "錫原礦方塊",
   "tile.m:raw_manganese_block.name": "錳原礦方塊",
-  "tile.m:raw_aluminum_block.name": "鋁原礦方塊"
+  "tile.m:raw_aluminum_block.name": "鋁原礦方塊",
+  "tile.m:zirconium_block.name": "鋯方塊"
 }
