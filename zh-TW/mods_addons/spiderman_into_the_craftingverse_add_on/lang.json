@@ -1,1 +1,7 @@
-﻿{}
+﻿{
+  "item.spawn_egg.entity.spiderverse:rhino_ps4.name": "犀牛 生怪蛋",
+  "entity.spiderverse:rhino_ps4.name": "犀牛",
+  "entity.spiderverse:scorpion.name": "毒蠍",
+  "item.spawn_egg.entity.spiderverse:buitre.name": "禿鷹 生怪蛋",
+  "entity.spiderverse:buitre.name": "禿鷹"
+}
