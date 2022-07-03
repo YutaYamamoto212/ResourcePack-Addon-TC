@@ -1,6 +1,7 @@
 {
   "entity.guardian:duck.name": "鴨子",
   "entity.guardian:fiend.name": "惡魔",
+  "entity.guardian:glare.name": "眩光",
   "entity.guardian:seagull.name": "海鷗",
   "entity.guardian:catfish.name": "鯰魚",
   "entity.guardian:scorpion.name": "毒蠍",
@@ -22,6 +23,7 @@
   "entity.guardian:drowned_cartographer.name": "沉製圖師",
   "item.spawn_egg.entity.guardian:duck.name": "鴨子 生怪蛋",
   "item.spawn_egg.entity.guardian:fiend.name": "惡魔 生怪蛋",
+  "item.spawn_egg.entity.guardian:glare.name": "眩光 生怪蛋",
   "item.spawn_egg.entity.guardian:seagull.name": "海鷗 生怪蛋",
   "item.spawn_egg.entity.guardian:catfish.name": "鯰魚 生怪蛋",
   "item.spawn_egg.entity.guardian:scorpion.name": "毒蠍 生怪蛋",
@@ -41,6 +43,7 @@
   "tile.guardian:red_rose.name": "紅色玫瑰",
   "tile.guardian:blue_rose.name": "藍色玫瑰",
   "tile.guardian:gold_bars.name": "金柵欄",
+  "tile.guardian:coconut_block.name": "椰子",
   "tile.glowingobsidian.name": "發光的黑曜石",
   "tile.guardian:copper_bars.name": "銅柵欄",
   "tile.guardian:nautilus_block.name": "鸚鵡螺",
