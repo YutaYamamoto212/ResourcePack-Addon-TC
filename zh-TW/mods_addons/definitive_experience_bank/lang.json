@@ -1,4 +1,5 @@
 {
+  "tile.deb:experience_bank.name": "經驗儲庫",
   "accessibility.disableTTS": "文字轉換語音已停用",
   "accessibility.enableTTS": "文字轉換語音已啟用",
   "item.spawn_egg.entity.pa:fish_1.name": "魚 1 生怪蛋",
@@ -69,6 +70,8 @@
   "entity.animal:camel.name": "駱駝",
   "entity.animal:duck.name": "鴨子",
   "entity.animal:penguin.name": "企鵝",
+  "entity.animal:steve.name": "Steve",
+  "entity.animal:alex.name": "Alex",
   "entity.animal:lion.name": "獅子",
   "entity.animal:hamster.name": "倉鼠",
   "entity.animal:hippo.name": "河馬",
@@ -98,5 +101,6 @@
   "action.interact.rotar": "旋轉",
   "action.interact.patitas": "開啟",
   "action.interact.conducir": "潛水",
+  "action.interact.sit": "坐",
   "entity.unknown.name": "PA 物品欄"
 }
