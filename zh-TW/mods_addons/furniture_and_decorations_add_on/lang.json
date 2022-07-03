@@ -10,5 +10,10 @@
   "tile.furniture_arathnido:gray_brick.name": "灰色磚",
   "tile.furniture_arathnido:cian_brick.name": "青色磚",
   "tile.furniture_arathnido:black_brick.name": "黑色磚",
-  "tile.furniture_arathnido:pink_brick.name": "粉紅色磚"
+  "tile.furniture_arathnido:pink_brick.name": "粉紅色磚",
+  "tile.furniture_arathnido:laptop.name": "筆記型電腦",
+  "tile.furniture_arathnido:silla.name": "椅子",
+  "tile.furniture_arathnido:silla_rotate.name": "椅子",
+  "tile.furniture_arathnido:mesa.name": "桌子",
+  "tile.furniture_arathnido:mesa_2.name": "桌子"
 }

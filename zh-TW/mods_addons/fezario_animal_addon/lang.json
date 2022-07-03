@@ -8,6 +8,7 @@
   "entity.id:tortoise.name": "陸龜",
   "item.spawn_egg.entity.id:komodo_dragon.name": "科摩多巨蜥 生怪蛋",
   "entity.id:komodo_dragon.name": "科摩多巨蜥",
+  "tile.id:cattail.name": "香蒲",
   "item.spawn_egg.entity.id:arapaima.name": "巨滑舌魚 生怪蛋",
   "entity.id:arapaima.name": "巨滑舌魚",
   "item.spawn_egg.entity.id:swordfish.name": "劍魚 生怪蛋",
