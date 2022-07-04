@@ -10,6 +10,8 @@
   "item.spawn_egg.entity.goodlord:golden_key1.name": "金鑰匙島 1 生怪蛋",
   "entity.goodlord:golden_key2.name": "金鑰匙島 2",
   "item.spawn_egg.entity.goodlord:golden_key2.name": "金鑰匙島 2 生怪蛋",
+  "entity.goodlord:poison_bulb.name": "毒莖",
+  "item.spawn_egg.entity.goodlord:poison_bulb.name": "毒莖 生怪蛋",
   "entity.goodlord:strangle_vine.name": "扼殺藤蔓",
   "item.spawn_egg.entity.goodlord:strangle_vine.name": "扼殺藤蔓 生怪蛋",
   "entity.goodlord:rock_flyer.name": "碎石龍",
