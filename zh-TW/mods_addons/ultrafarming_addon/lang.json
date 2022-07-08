@@ -111,5 +111,17 @@
   "item.uf:tomato_spaghetti": "番茄義大利麵",
   "item.uf:toasted_bread_grape_jam": "葡萄醬烤麵包",
   "item.uf:toasted_bread_orange_jam": "柳橙醬烤麵包",
-  "item.uf:toasted_bread_strawberry_jam": "草莓醬烤麵包"
+  "item.uf:toasted_bread_strawberry_jam": "草莓醬烤麵包",
+  "tile.uf:brick_countertop.name": "紅磚櫃臺面",
+  "tile.uf:mud_countertop.name": "泥巴櫃臺面",
+  "recipes.cooking_pot": "烹飪鍋",
+  "recipes.title": "配方手冊",
+  "recipes.soup": "湯",
+  "recipes.beef_stew": "牛肉湯",
+  "recipes.pumpkin_stew": "南瓜湯",
+  "recipes.potato_stew": "馬鈴薯湯",
+  "recipes.choose_section": "選擇配方部分",
+  "recipes.back": "返回",
+  "recipes.potato_stew.guide": "§l馬鈴薯湯§r\n¶¶¶\n成分：§§-馬鈴薯§§-番茄§§-胡蘿蔔§§§§描述：§§我喜歡！§§",
+  "tile.uf:wild_plant.name": "野生農作物"
 }
