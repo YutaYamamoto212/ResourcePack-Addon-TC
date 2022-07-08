@@ -1,10 +1,4 @@
 {
   "action.hint.exit.megaverse:soul_dracan": "潛行以取消乘坐，跳躍以飛行",
-  "action.hint.exit.megaverse:glühschwanz": "潛行以取消乘坐，跳躍以上升 ↑，以及你的頭部旋轉控制 ↑&↓",
-  "item.gold_coin.name": "金幣",
-  "item.pearl.name": "珍珠",
-  "item.ruby.name": "紅寶石",
-  "tile.raw_tin_block.name": "錫原礦方塊",
-  "tile.ruby_block.name": "紅寶石方塊",
-  "tile.ruby_ore.name": "紅寶石礦"
+  "action.hint.exit.megaverse:glühschwanz": "潛行以取消乘坐，跳躍以上升 ↑，以及你的頭部旋轉控制 ↑&↓"
 }
