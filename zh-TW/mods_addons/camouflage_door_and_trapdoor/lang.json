@@ -1,4 +1,5 @@
 {
+  "tile.block:camouflage_crafter.name": "迷彩門工作台",
   "tile.door:glass_door.name": "玻璃門",
   "tile.door:tinted_glass_door.name": "遮光玻璃門",
   "tile.door:stained_glass_door_white.name": "白色玻璃門",
