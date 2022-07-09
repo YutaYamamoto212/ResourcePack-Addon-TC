@@ -59,6 +59,7 @@
   "item.spawn_egg.entity.korbon:lumberjack_villager.name": "伐木工人村民 生成蛋",
   "tile.korbon:spawner_block_lumberjack.name": "生怪磚 - 伐木工人",
   "tile.korbon:jukebox_extended.name": "唱片機+",
+  "entity.korbon:herobrine.name": "Herobrine",
   "entity.korbon:possessed_cow.name": "被附身的牛",
   "entity.korbon:possessed_villager.name": "被附身的村民",
   "tile.korbon:spike_trap_base.name": "尖刺陷阱",
