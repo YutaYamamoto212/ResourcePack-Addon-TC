@@ -1,4 +1,12 @@
 {
+  "item.spawn_egg.entity.bn:banco_npc.name": "銀行 NPC 生怪蛋",
+  "entity.bn:banco_npc.name": "銀行 NPC",
+  "item.spawn_egg.entity.an:armadura_npc.name": "犰狳商人 生怪蛋",
+  "entity.an:armadura_npc.name": "犰狳商人",
+  "item.spawn_egg.entity.cn:cultivos_npc.name": "栽培品種商人 生怪蛋",
+  "entity.cn:cultivos_npc.name": "栽培品種商人",
+  "item.spawn_egg.entity.dn:discos_npc.name": "迪斯科商人 生怪蛋",
+  "entity.dn:discos_npc.name": "迪斯科商人",
   "item.spawn_egg.entity.mn:misions_money_npc.name": "任務商人 生怪蛋",
   "entity.mn:misions_money_npc.name": "任務商人",
   "accessibility.disableTTS": "文字轉換語音已停用",
