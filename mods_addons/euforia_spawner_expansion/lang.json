@@ -1,0 +1,12 @@
+{
+  "tile.euf:ese_mob_spawner_zombie.name": "Mob Spawner Zombie",
+  "tile.euf:ese_mob_spawner_zombie": "Mob Spawner Zombie",
+  "tile.euf:ese_mob_spawner_skeleton.name": "Mob Spawner Skeleton",
+  "tile.euf:ese_mob_spawner_skeleton": "Mob Spawner Skeleton",
+  "tile.euf:ese_mob_spawner_cow.name": "Mob Spawner Cow",
+  "tile.euf:ese_mob_spawner_cow": "Mob Spawner Cow",
+  "tile.euf:ese_mob_spawner_iron_golem.name": "Mob Spawner Iron Golem",
+  "tile.euf:ese_mob_spawner_iron_golem": "Mob Spawner Iron Golem",
+  "tile.euf:ese_mob_spawner_enderman.name": "Mob Spawner Enderman",
+  "tile.euf:ese_mob_spawner_enderman": "Mob Spawner Enderman"
+}
