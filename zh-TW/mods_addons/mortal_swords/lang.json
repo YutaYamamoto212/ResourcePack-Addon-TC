@@ -1,4 +1,11 @@
 {
+  "item.pa:bomb.name": "炸彈",
+  "item.pa:magmasword.name": "岩漿劍",
+  "item.pa:hammer.name": "鎚",
+  "item.pa:dioritesword.name": "閃長岩劍",
+  "item.pa:knife.name": "刀",
+  "item.pa:obsidiansword.name": "黑曜石劍",
+  "item.pa:glaciersword.name": "§b冰川劍",
   "accessibility.disableTTS": "文字轉換語音已停用",
   "accessibility.enableTTS": "文字轉換語音已啟用",
   "item.spawn_egg.entity.pa:fish_1.name": "魚 1 生怪蛋",
