@@ -1,6 +1,5 @@
 {
   "entity.mutant:thrown_chemical_x.name": "化學物質 X §r",
-  "entity.mutant:chemical_x_impact.name": "化學物質 X §r",
   "item.spawn_egg.entity.mutant:2016_mutant_zombie.name": "2016 突變殭屍 生怪蛋",
   "entity.og_mutant:2016_mutant_zombie.name": "2016 突變殭屍",
   "item.spawn_egg.entity.mutant:2016_mutant_villager.name": "2016 突變村民 生怪蛋",
@@ -8,7 +7,6 @@
   "entity.mutant:og_zombie_villager.name": "殭屍村民",
   "item.spawn_egg.entity.mutant:mutant_enderman.name": "突變終界使者 生怪蛋",
   "entity.mutant:mutant_enderman.name": "突變終界使者",
-  "entity.mutant:mutant:mutant_enderman_dead.name": "突變終界使者",
   "item.spawn_egg.entity.mutant:mutant_snow_golem.name": "突變雪人 生怪蛋",
   "entity.mutant:mutant_snow_golem.name": "突變雪人",
   "item.spawn_egg.entity.mutant:mutant_iron_golem.name": "突變鐵魔像 生怪蛋",
@@ -16,6 +14,5 @@
   "item.spawn_egg.entity.mutant:mutant_husk.name": "突變屍殼 生怪蛋",
   "entity.mutant:mutant_husk.name": "突變屍殼",
   "item.spawn_egg.entity.mutant:mutant_zombie.name": "突變殭屍 生怪蛋",
-  "entity.mutant:mutant_zombie.name": "突變殭屍",
-  "entity.mutant:zombie_minion.name": "殭屍"
+  "entity.mutant:mutant_zombie.name": "突變殭屍"
 }
