@@ -10,5 +10,16 @@
   "enchantment.crossbowMultishot": "分裂箭矢",
   "enchantment.crossbowPiercing": "弩貫穿",
   "enchantment.lootBonus": "額外掉落",
-  "enchantment.protect.fall": "輕盈"
+  "enchantment.protect.fall": "輕盈",
+  "item.gold_coin.name": "金幣",
+  "item.pearl.name": "珍珠",
+  "item.raw_ruby.name": "紅寶石原礦",
+  "item.raw_tin.name": "錫原礦",
+  "item.ruby.name": "紅寶石",
+  "item.tin_ingot.name": "錫錠",
+  "tile.raw_ruby_block.name": "紅寶石原礦方塊",
+  "tile.raw_tin_block.name": "錫原礦方塊",
+  "tile.ruby_block.name": "紅寶石方塊",
+  "tile.ruby_ore.name": "紅寶石礦",
+  "tile.tin_block.name": "錫方塊"
 }
