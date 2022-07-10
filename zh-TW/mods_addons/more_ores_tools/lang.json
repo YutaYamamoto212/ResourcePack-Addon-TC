@@ -30,5 +30,9 @@
   "tile.oh:topaz_block.name": "黃玉方塊",
   "tile.oh:topaz_ore.name": "黃玉礦",
   "entity.oh:magma_zombie.name": "岩漿殭屍",
-  "item.spawn_egg.entity.oh:magma_zombie.name": "§4岩漿§e殭屍§r 生怪蛋"
+  "item.spawn_egg.entity.oh:magma_zombie.name": "§4岩漿§e殭屍§r 生怪蛋",
+  "entity.oh:ores_trader.name": "礦石商人",
+  "item.spawn_egg.entity.oh:ores_trader.name": "§2礦石§6商人§r 生怪蛋",
+  "entity.oh:mud_spider.name": "泥蜘蛛",
+  "item.spawn_egg.entity.oh:mud_spider.name": "泥蜘蛛 生怪蛋"
 }
