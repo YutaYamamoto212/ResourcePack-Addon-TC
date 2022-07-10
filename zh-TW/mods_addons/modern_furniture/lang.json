@@ -62,7 +62,6 @@
   "tile.mf:sofa5m.name": "仿古沙發模組",
   "tile.f:mesasalonr.name": "桌子",
   "tile.f:mesasalonr1.name": "桌子",
-  "tile.f:bcuarzonegro.name": "黑石英方塊",
   "tile.f:sofasa1w.name": "沙發模組",
   "tile.f:sofasaw.name": "沙發模組",
   "tile.f:sofasa1b.name": "沙發模組",
@@ -99,14 +98,5 @@
   "tile.f:sofa3n.name": "黑色沙發模組",
   "tile.f:sofa4.name": "白色沙發模組",
   "tile.f:sofa4n.name": "黑色沙發模組",
-  "tile.f:alfombra.name": "現代地毯",
-  "tile.f:cocina8.name": "廚房檯面",
-  "tile.f:cocina9.name": "廚房檯面",
-  "tile.f:cocina10.name": "廚房檯面",
-  "tile.f:cocina11.name": "廚房檯面",
-  "tile.f:cocina12.name": "廚房檯面",
-  "tile.f:cocina13.name": "廚房檯面",
-  "tile.f:cocina14.name": "廚房檯面",
-  "tile.f:cocina15.name": "廚房檯面",
-  "tile.f:cocina16.name": "廚房檯面"
+  "tile.f:alfombra.name": "現代地毯"
 }
