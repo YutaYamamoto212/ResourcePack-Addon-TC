@@ -1,14 +1,4 @@
 {
-  "tile.wr:cobbled_grimstone.name": "盤石鵝卵石 ",
-  "tile.wr:grimstone.name": "盤石",
-  "tile.wr:grimstone_coal.name": "盤石煤礦",
-  "tile.wr:grimstone_copper.name": "盤石銅礦",
-  "tile.wr:grimstone_diamond.name": "盤石鑽石礦",
-  "tile.wr:grimstone_emerald.name": "盤石綠寶石礦",
-  "tile.wr:grimstone_gold.name": "盤石金礦",
-  "tile.wr:grimstone_iron.name": "盤石鐵礦",
-  "tile.wr:grimstone_lapis.name": "盤石青金石礦",
-  "tile.wr:grimstone_redstone.name": "盤石紅石礦",
   "accessibility.disableTTS": "文字轉換語音已停用",
   "accessibility.enableTTS": "文字轉換語音已啟用",
   "item.spawn_egg.entity.pa:fish_1.name": "魚 1 生怪蛋",
@@ -110,6 +100,6 @@
   "action.interact.rotar": "旋轉",
   "action.interact.patitas": "開啟",
   "action.interact.conducir": "潛水",
-  "action.interact.sit ": " 坐",
+  "action.interact.sit": "坐",
   "entity.unknown.name": "PA 物品欄"
 }
