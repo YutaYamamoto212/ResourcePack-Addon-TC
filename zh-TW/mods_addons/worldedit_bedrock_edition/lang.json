@@ -279,7 +279,7 @@
   "howtoplay.wedit:quick_start.text.16": "1. 拿一把任意類型的鏟子放下鵝卵石。你需要它來描繪。",
   "howtoplay.wedit:quick_start.text.17": "§72. 使用「WorldEdit 設定」物品。您的快捷欄中應該會出現一個選單，其中包括「畫筆設定」。選擇物品，然後選擇要綁定的鏟子。使它成為半徑為 3 的球體畫筆和鵝卵石填充方塊。確認設定並離開選單。",
   "howtoplay.wedit:quick_start.text.18": "§r3. 瞄準不靠近您的地面並與鏟子（現在是畫筆）互動以放置鵝卵石球體。",
-  "howtoplay.wedit:quick_start.text.19": "§74. 使畫筆在握住時只影響帶有 §e;/mask Grass§r§7 的草。現在使用畫筆製作鵝卵石路徑。",
+  "howtoplay.wedit:quick_start.text.19": "§74. 使畫筆在握住時僅使用 §e;mask Grass§r§7 影響草。現在使用畫筆製作鵝卵石路徑。",
   "howtoplay.wedit:quick_start.text.20": "§r5. 使用 §e;br none§r 停用畫筆。",
   "howtoplay.wedit:quick_start.header.7": "那麼現在呢？",
   "howtoplay.wedit:quick_start.text.23": "若要了解有關此附加包的更多資訊，你可以在此連結存取其線上文件：§ehttps://worldedit-be-docs.readthedocs.io§r",
