@@ -359,5 +359,7 @@
   "apocalypse.main_menu.description": "歡迎來到§c啟示錄§r§e商店§r！選擇您要訪問的類別或選擇§b「離開」§f以離開此選單。",
   "apocalypse.main_menu.weapons.name": "武器",
   "apocalypse.main_menu.weapons.description": "使用您的§e經驗等級§7來§e解鎖新武器！",
-  "apocalypse.main_menu.utility.name": "工具"
+  "apocalypse.main_menu.utility.name": "工具",
+  "apocalypse.main_menu.utility.description": "購買§e金蘋果§7、§b破片手榴彈§7、§b盔甲套裝§7或§e彈藥！",
+  "apocalypse.main_menu.abilities.name": "能力"
 }
