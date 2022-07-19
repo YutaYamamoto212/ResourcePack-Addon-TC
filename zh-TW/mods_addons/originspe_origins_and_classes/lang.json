@@ -230,7 +230,7 @@
   "origins.perk.less_shield_slowdown.name": "持盾術",
   "origins.perk.less_shield_slowdown.description": "用盾牌格擋自己時，您會獲得額外的保護。",
   "origins.perk.less_health_more_attack.name": "憤怒嗜血",
-  "origins.perk.less_health_more_attack.description": "您獲得的力量會隨著您當前的生命值超過其最大值而降低。",
+  "origins.perk.less_health_more_attack.description": "您獲得的力量會隨著您目前的生命值超過其最大值而降低。",
   "origins.perk.tamed_animal_boost.name": "動物朋友",
   "origins.perk.tamed_animal_boost.description": "你馴服的動物會獲得永久的屬性增益，最高可達基礎值的兩倍。",
   "origins.perk.effective_empathy.name": "共感",
