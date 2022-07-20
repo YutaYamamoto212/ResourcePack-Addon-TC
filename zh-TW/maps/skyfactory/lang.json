@@ -1,11 +1,13 @@
 {
   "entity.nether:nether_mite.name": "地獄蟎",
   "item.spawn_egg.entity.nether:nether_mite.name": "地獄蟎 生怪蛋",
+  "tile.nether:nest_block.name": "龍巢塊",
   "tile.nether:brimstone.name": "硫磺石",
   "tile.nether:molten_brimstone.name": "熔融硫磺石",
   "tile.nether:sunstone.name": "太陽石",
   "tile.nether:sunstone_block.name": "太陽石方塊",
   "item.nether:sunstone_crystal": "太陽石晶體",
+  "tile.nether:sunstone_gong.name": "日光石獎章",
   "tile.nether:blue_nether_brick.name": "藍地獄磚",
   "tile.nether:scorched_nether_brick.name": "燒焦的地獄磚",
   "tile.nether:scorched_magma_nether_brick.name": "燒焦的岩漿地獄磚",
