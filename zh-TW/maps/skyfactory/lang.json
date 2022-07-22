@@ -106,6 +106,8 @@
   "tile.vatonage:warped_chair.name": "扭曲蕈木椅",
   "tile.vatonage:warped_sofa.name": "扭曲蕈木沙發",
   "tile.vatonage:warped_table.name": "扭曲蕈木桌",
+  "tile.vatonage:chunk_loader.name": "區塊載入器",
+  "tile.vatonage:endcake.name": "終界蛋糕",
   "entity.astoragenet:storage_terminal.name": "儲存系統",
   "item.astoragenet:used_storage_drive": "儲存裝置",
   "tile.astoragenet:storage_terminal.name": "儲存系統",
