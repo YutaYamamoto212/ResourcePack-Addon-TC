@@ -36,7 +36,7 @@
     "tile.rc:andesite_casing.name": "安山岩機殼",
     "tile.Shaft.name": "傳動軸",
     "tile.rc:elevator.name": "電梯",
-    "tile.rc:receiver.name": "接收器\n",
+    "tile.rc:receiver.name": "接收器",
     "tile.rc:transmitter.name": "發送器",
     "tile.rc:adjustable_pulse_repeater.name": "可調式脈衝中繼器"
 }
