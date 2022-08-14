@@ -1,4 +1,6 @@
 {
+  "item.id:turtle_bucket.name": "烏龜桶",
+  "item.id:reptile_armor.name": "爬行動物胸甲",
   "item.spawn_egg.entity.id:tiger.name": "老虎 生怪蛋",
   "entity.id:tiger.name": "老虎",
   "tile.id:palm_log.name": "棕櫚木原木",
