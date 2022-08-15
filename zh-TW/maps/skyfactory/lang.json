@@ -396,6 +396,6 @@
   "item.blay:emerald_ring1.name": "綠寶石戒指§2（開啟）",
   "item.spawn_egg.entity.sp:blood_zombie.name": "血殭屍 生怪蛋",
   "entity.sp:blood_zombie.name": "血殭屍",
-  "item.sp:shuriken": "手裡劍",
-  "entity.sp:shuriken_projectile.name": "手裡劍"
+  "item.sp:shuriken": "手裏劍",
+  "entity.sp:shuriken_projectile.name": "手裏劍"
 }
