@@ -4,5 +4,19 @@
   "serp.intro2": "在這個世界上，有許多名為寶可夢的神奇精靈！",
   "serp.intro3": "有些人把寶可夢如寵物的愛戴，也有人拿來進行一場刺激的對戰。",
   "serp.intro4": "現在，讓我們看看，你的名字是 ",
-  "serp.intro4.1": "，確定嗎？"
+  "serp.intro4.1": "，確定嗎？",
+  "serp.choosed_poke": "選得好！",
+  "item.serp:apricorn_red.name": "紅色球果",
+  "item.serp:apricorn_blue.name": "藍色球果",
+  "item.serp:apricorn_white.name": "白色球果",
+  "item.serp:apricorn_yellow.name": "黃色球果",
+  "item.serp:apricorn_black.name": "黑色球果",
+  "item.serp:apricorn_green.name": "綠色球果",
+  "item.serp:apricorn_cyan.name": "青色球果",
+  "item.serp:apricorn_pink.name": "粉紅色球果",
+  "item.serp:apricorn_orange.name": "橙色球果",
+  "item.serp:dynamax_band.name": "極巨腕帶",
+  "item.compass.name": "寶可夢圖鑑",
+  "item.lodestonecompass.name": "磁石寶可夢圖鑑",
+  "item.serp:mulch.name": "覆蓋物"
 }
