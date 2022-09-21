@@ -1,5 +1,6 @@
 {
   "baker_trader.name": "麵包師",
+  "butcher_trader.name": "屠夫",
   "farmer_trader.name": "農夫",
   "guard_trader.name": "守衛",
   "librarian_trader.name": "圖書管理員",
@@ -16,8 +17,10 @@
   "microondas.table": "微波爐",
   "action.interact.rg69": "個人化",
   "action.interact.certificate": "取得結婚證書",
+  "action.interact.process": "放置寶寶",
   "action.interact.procate": "生育",
   "action.interact.matrimone": "結婚",
+  "action.interact.procex": "成長",
   "action.hint.exit.furnicraft:sentar": "按下 SHIFT 來起身",
   "action.hint.exit.furnicraft:sentard": "按下 SHIFT 來起身",
   "action.hint.exit.furnicraft:sentaru": "按下 SHIFT 來起身",
