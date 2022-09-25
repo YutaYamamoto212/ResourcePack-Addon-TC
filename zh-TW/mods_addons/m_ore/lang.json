@@ -193,5 +193,7 @@
   "tile.m:raw_tin_block.name": "錫原礦方塊",
   "tile.m:raw_manganese_block.name": "錳原礦方塊",
   "tile.m:raw_aluminum_block.name": "鋁原礦方塊",
+  "tile.m:carbon_37_head.name": "37 碳 礦",
+  "tile.m:carbon_38_head.name": "38 碳 礦",
   "tile.m:zirconium_block.name": "鋯方塊"
 }
