@@ -245,7 +245,7 @@
   "origins.perk.powerful_potions.name": "強效釀造 []",
   "origins.perk.powerful_potions.description": "你作為神職人員釀造的任何藥水都將藉由使用螢光石比平時更加放大。",
   "origins.perk.quality_equipment.name": "精湛的工藝 []",
-  "origins.perk.quality_equipment.description": "您製作的任何裝備 ()，例如武器和盔甲，都將得到增強並提供更高的屬性。",
+  "origins.perk.quality_equipment.description": "您製作的任何裝備（），例如武器和盔甲，都將得到增強並提供更高的屬性。",
   "origins.perk.efficient_repairs.name": "高效修理",
   "origins.perk.efficient_repairs.description": "您製作的優質裝備更容易修復，並且可以恢復更多耐久度。",
   "origins.perk.copper_hoe_tool.name": "銅鋤 []",
