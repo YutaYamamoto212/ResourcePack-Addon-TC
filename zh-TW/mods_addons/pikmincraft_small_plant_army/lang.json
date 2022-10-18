@@ -1,7 +1,7 @@
 {
   "item.spawn_egg.entity.pik:scallion.name": "青蔥 生怪蛋",
   "pik.fmode.hint": "§e跟隨模式：%1跟隨模式下的皮克敏會攻擊你攻擊或試圖攻擊你的任何東西%1-它們還會將附近的物品帶給你，而無需扔掉它們。%1-潛行並與它們互動或用你的哨子叫它們回來。§r",
-  "pik.piklopedia.not_creative": "對不起，這不能用於創造模式 :(",
+  "pik.piklopedia.not_creative": "對不起，這不能用於創造模式 :（",
   "pik.initial.menssege": "你好，我是附加包的作者，Axelpvz2030%1這個模組可能有點複雜，所以我做了一個指南，應該在你的物品欄中。%1翻開它以閱讀有關附加包所需的所有資訊，如果您發現其餘部分有點不知所措，請先查看「快速指南」部分，或者嘗試用這本書對任何實體按下以翻開其相關部分。%1如果你失去了指南，你可以用一個樹苗和一本普通的書來合成。",
   "pik.piklopedia.hide": "§r",
   "pik.piklopedia.close": "關閉",
