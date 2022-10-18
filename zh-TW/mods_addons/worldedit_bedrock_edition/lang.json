@@ -162,7 +162,7 @@
   "commands.wedit:gmask.set": "已設定全域遮罩。",
   "commands.wedit:green.description": "將附近的泥土變成草地",
   "commands.wedit:hcyl.description": "生成一個空心的圓柱體",
-  "commands.wedit:help.header": "--- 顯示說明第 %1 頁 (共 %2 頁) (;help <頁數>) ---",
+  "commands.wedit:help.header": "--- 顯示說明第 %1 頁（共 %2 頁）（;help <頁數>）---",
   "commands.wedit:hpos1.description": "將您選擇的第一個位置設定為您所面對的方塊的位置",
   "commands.wedit:hpos2.description": "將您選擇的第二個位置設定為您所面對的方塊的位置",
   "commands.wedit:hpyramid.description": "生成一個空心的角錐",
