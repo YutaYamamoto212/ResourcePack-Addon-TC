@@ -2562,6 +2562,7 @@ entity.camel.name=Camel
 entity.cat.name=Cat
 entity.cave_spider.name=Cave Spider
 entity.chest_boat.name=Boat with Chest
+entity.chest_raft.name=Raft with Chest
 entity.chest_minecart.name=Minecart with Chest
 entity.chicken.name=Chicken
 entity.cod.name=Cod

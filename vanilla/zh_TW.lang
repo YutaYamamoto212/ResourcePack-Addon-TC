@@ -2564,6 +2564,7 @@ entity.camel.name=駱駝
 entity.cat.name=貓
 entity.cave_spider.name=洞穴蜘蛛
 entity.chest_boat.name=儲物箱船
+entity.chest_raft.name=儲物箱竹筏
 entity.chest_minecart.name=儲物箱礦車
 entity.chicken.name=雞
 entity.cod.name=鱈魚

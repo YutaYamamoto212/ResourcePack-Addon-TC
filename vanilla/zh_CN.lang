@@ -2562,6 +2562,7 @@ entity.camel.name=骆驼
 entity.cat.name=猫
 entity.cave_spider.name=洞穴蜘蛛
 entity.chest_boat.name=运输船
+entity.chest_raft.name=运输竹筏
 entity.chest_minecart.name=运输矿车
 entity.chicken.name=鸡
 entity.cod.name=鳕鱼
