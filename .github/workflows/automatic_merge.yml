@@ -1,0 +1,19 @@
+name: Automatic merge
+
+on:
+  pull_request:
+    branches:
+      - l10n_main3
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: l10n_main3
+      - uses: peter-evans/merge-pull-request-action@v3
+        with:
+          commit-message: "Automatic merge of l10n_main3 into main"
+          delete-branch: true
+          token: ${{ secrets.GITHUB_TOKEN }}
