@@ -1,0 +1,25 @@
+name: UpdateLang
+
+on: 
+  schedule:
+    - cron: "0 0 * * 1,2,3,4,5"
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - l10n_main3
+  
+jobs:
+  merge_pull_request:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'Automatic merge of l10n_main3 branch'
+          title: 'Automatic merge of l10n_main3 branch'
+          labels: 'automatic merge'
+          head: l10n_main3
+          base: main
+    
