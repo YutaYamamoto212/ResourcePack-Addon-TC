@@ -2,20 +2,29 @@ name: Update Translation
 
 on:
   pull_request:
-    types: [open]
-    branches:
-      - main
+    types: [opened, synchronize]
   workflow_dispatch:
 
 jobs:
-  merge:
+  merge-pull-requests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Merge Pull Request
-        uses: peter-evans/enable-pull-request-automerge@v2
-        with:
-          commit-message: 'Automatically merged pull request'
-          repository-dispatch: true
-          delete-branch: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v2
+    - name: Merge Pull Requests
+      uses: actions/github-script@v3
+      with:
+        script: |
+          const pullRequests = await github.pulls.list({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            state: 'open'
+          })
+          for (const pullRequest of pullRequests.data) {
+            if (pullRequest.title === 'New Crowdin updates') {
+              await github.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pullRequest.number
+              })
+            }
+          }
