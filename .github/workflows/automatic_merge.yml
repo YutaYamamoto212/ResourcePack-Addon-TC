@@ -4,7 +4,6 @@ on:
   pull_request:
     branches:
       - l10n_main3
-      - main
   workflow_dispatch:
 
 jobs:
@@ -14,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Merge pull request
         run: |
-          git fetch origin main
-          git checkout main
+          git fetch origin l10n_main3
+          git checkout l10n_main3
           git merge --no-ff l10n_main3
           git push origin main
