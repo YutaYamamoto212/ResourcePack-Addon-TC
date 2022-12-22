@@ -1,21 +1,18 @@
-name: Automatic merge
+name: Merge pull requests
 
 on:
   pull_request:
     branches:
       - l10n_main3
-      - main
-  workflow_dispatch:
 
 jobs:
   merge:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: l10n_main3
-      - uses: peter-evans/enable-pull-request-automerge@v2
-        with:
-          commit-message: "Automatic merge of l10n_main3 into main"
-          delete-branch: true
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Merge pull request
+        run: |
+          git fetch origin main
+          git checkout main
+          git merge --no-ff l10n_main3
+          git push origin main
