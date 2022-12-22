@@ -12,6 +12,8 @@
   "tile.nether:scorched_nether_brick.name": "燒焦的地獄磚",
   "tile.nether:scorched_magma_nether_brick.name": "燒焦的岩漿地獄磚",
   "tile.nether:nest_connector_bottom.name": "巢穴連接器底部",
+  "tile.nether:nest_connector_top.name": "鳥巢連接器頂部",
+  "item.nether:nest_connector_bottom_item": "鳥巢連接器底部",
   "item.nether:blue_nethershroom_item": "藍地獄菇",
   "entity.nether:blue_nethershroon.name": "藍地獄菇",
   "entity.nether:piglin_fungus_thrower.name": "豬布林蕈菇投擲者",
