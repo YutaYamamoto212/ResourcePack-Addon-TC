@@ -1,0 +1,20 @@
+name: Update Translation
+
+on:
+  pull_request:
+    types: [open]
+    branches:
+      - l10n_main3
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Merge Pull Request
+        uses: peter-evans/merge-pull-request@v2
+        with:
+          commit-message: 'Automatically merged pull request'
+          repository-dispatch: true
+          delete-branch: true
+          token: ${{ secrets.GITHUB_TOKEN }}
