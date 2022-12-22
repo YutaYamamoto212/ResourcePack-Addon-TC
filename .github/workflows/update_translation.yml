@@ -5,6 +5,7 @@ on:
     types: [open]
     branches:
       - l10n_main3
+  workflow_dispatch:
 
 jobs:
   merge:
