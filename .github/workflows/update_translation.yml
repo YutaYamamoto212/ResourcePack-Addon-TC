@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Merge Pull Request
-        uses: peter-evans/merge-pull-request@v2
+        uses: peter-evans/enable-pull-request-automerge@v2
         with:
           commit-message: 'Automatically merged pull request'
           repository-dispatch: true
