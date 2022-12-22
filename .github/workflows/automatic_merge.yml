@@ -4,6 +4,7 @@ on:
   pull_request:
     branches:
       - l10n_main3
+      - main
   workflow_dispatch:
 
 jobs:
