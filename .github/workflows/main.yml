@@ -7,19 +7,15 @@ on:
   pull_request:
     branches:
       - l10n_main3
+    types: [opened, synchronize]
   
 jobs:
-  merge_pull_request:
+  merge:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Create pull request
-        uses: peter-evans/create-pull-request@v2
+      - name: Merge Pull Request
+        uses: actions/merge@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: 'Automatic merge of l10n_main3 branch'
-          title: 'Automatic merge of l10n_main3 branch'
-          labels: 'automatic merge'
-          head: l10n_main3
-          base: main
+          branch: main
     
