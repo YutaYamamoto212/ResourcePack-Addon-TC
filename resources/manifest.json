@@ -1,0 +1,47 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "aa16e4c4-fc51-401c-bfb4-15d50feba2bf",
+    "version": [
+      1,
+      4,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a4945038-4c4c-477a-882c-8c1f83c34dea",
+      "version": [
+        1,
+        4,
+        0
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "zh_HK",
+      "name": "繁體中文供 §l香港特別行政區§r 使用",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "zh_TW",
+      "name": "繁體中文供 §l台灣§r 使用",
+      "memory_tier": 1
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "YutaYamamoto212"
+    ],
+    "license": "MIT license"
+  }
+}

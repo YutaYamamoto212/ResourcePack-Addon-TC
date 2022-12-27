@@ -3,6 +3,8 @@ files:
     ignore:
       - zh-TW
       - zh-HK
-      - resources
+      - zh-CN
       - vanilla
+      - chemistry
+      - resources
     translation: '%original_path%/%original_file_name%'
