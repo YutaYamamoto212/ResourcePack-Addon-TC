@@ -1,10 +1,10 @@
 {
-  "item.eat:acacia_sapling.name": "相思木樹苗",
+  "item.eat:oak_sapling.name": "橡木樹苗",
+  "item.eat:spruce_sapling.name": "杉木樹苗",
   "item.eat:birch_sapling.name": "樺木樹苗",
   "item.eat:jungle_sapling.name": "叢林木樹苗",
-  "item.eat:oak_sapling.name": "橡木樹苗",
+  "item.eat:acacia_sapling.name": "相思木樹苗",
   "item.eat:dark_oak_sapling.name": "黑橡木樹苗",
-  "item.eat:spruce_sapling.name": "杉木樹苗",
   "accessibility.disableTTS": "文字轉換語音已停用",
   "accessibility.enableTTS": "文字轉換語音已啟用",
   "item.spawn_egg.entity.pa:fish_1.name": "魚 1 生成蛋",
@@ -103,6 +103,5 @@
   "action.hint.exit.unknown": "而家你可以旋轉它",
   "action.interact.rotar": "旋轉",
   "action.interact.patitas": "打開",
-  "action.interact.conducir": "潛水",
-  "action.interact.sit ": " 坐"
+  "action.interact.conducir": "潛水"
 }
