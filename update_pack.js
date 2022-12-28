@@ -69,7 +69,7 @@ const mergeWithPackDataLANGFile = (mergedLangString, packDataLANGFile) => {
 
 // Step 6 : Setting Directories
 const zhCNDirectories = ['zh-CN/maps', 'zh-CN/mods_addons', 'zh-CN/vanilla', 'zh-CN/chemistry'];
-const zhHKDirectories = ['zh-HK/mods_addons', 'zh-HK/vanilla', 'zh-HK/chemistry'];
+const zhHKDirectories = ['zh-HK/maps', 'zh-HK/mods_addons', 'zh-HK/vanilla', 'zh-HK/chemistry'];
 const zhTWDirectories = ['zh-TW/maps', 'zh-TW/mods_addons', 'zh-TW/vanilla', 'zh-TW/chemistry'];
 
 // use the readJSONFiles function to get the array of JSON files for each language
