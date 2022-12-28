@@ -1,1 +1,21 @@
-{}
+{
+  "tile.v:revive_table.name": "复活台",
+  "tile.v:glowing_obsidian_new.name": "发光的黑曜石",
+  "item.spawn_egg.entity.v:wild_ravager.name": "野生劫掠兽刷怪蛋",
+  "entity.v:wild_ravager.name": "野生劫掠兽",
+  "entity.v:excavator_illager.name": "灾厄村民开凿者",
+  "item.spawn_egg.entity.v:excavator_illager.name": "灾厄村民开凿者刷怪蛋",
+  "entity.v:dark_witch.name": "黑暗女巫",
+  "item.spawn_egg.entity.v:dark_witch.name": "黑暗女巫刷怪蛋",
+  "tile.v:kyanite_block.name": "蓝晶石块",
+  "tile.v:topaz_block.name": "黄玉块",
+  "tile.v:garnet_block.name": "石榴石块",
+  "tile.v:garnet_ore.name": "石榴石矿石",
+  "tile.v:kyanite_ore.name": "蓝晶石矿石",
+  "tile.v:topaz_ore.name": "黄玉矿石",
+  "entity.v:villager_warrior.name": "村民战士",
+  "item.spawn_egg.entity.v:villager_warrior.name": "村民战士刷怪蛋",
+  "tile.v:deepslate_garnet_ore.name": "深层石榴石矿石",
+  "tile.v:deepslate_kyanite_ore.name": "深层蓝晶石矿石",
+  "tile.v:deepslate_topaz_ore.name": "深层黄玉矿石"
+}

@@ -1,1 +1,8 @@
-{}
+{
+  "entity.entity:terminator<>.name": "终结者",
+  "message.entity.respawn.generic": "，但它们重生了！",
+  "item.spawn_egg.entity.entity:terminator.name": "终结者刷怪蛋",
+  "entity.player.name": "玩家",
+  "entity.entity:terminator.name": "终结者",
+  "entity.entity:dummy.name": "虚拟"
+}

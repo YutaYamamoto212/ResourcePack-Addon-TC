@@ -1,1 +1,6 @@
-{}
+{
+  "item.wb:warden_helmet.name": "监守者头盔",
+  "item.wb:warden_chestplate.name": "监守者胸甲",
+  "item.wb:warden_leggings.name": "监守者护腿",
+  "item.wb:warden_boots.name": "监守者靴子"
+}

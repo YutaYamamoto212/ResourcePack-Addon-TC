@@ -1,1 +1,12 @@
-{}
+{
+  "item.spawn_egg.entity.mf:jhammerd.name": "§l§3钻石杰克锤刷怪蛋",
+  "entity.mf:jhammerd.name": "§l§3钻石杰克锤",
+  "item.spawn_egg.entity.mf:jhammerg.name": "§l§e金杰克锤刷怪蛋",
+  "entity.mf:jhammerg.name": "§l§e金杰克锤",
+  "item.spawn_egg.entity.mf:jhammeri.name": "§l§8铁杰克锤刷怪蛋",
+  "entity.mf:jhammeri.name": "§l§8铁杰克锤",
+  "item.spawn_egg.entity.mf:peso.name": "§l矿石球刷怪蛋",
+  "entity.mf:peso.name": "§l矿石球",
+  "item.spawn_egg.entity.mf:mdrill.name": "§l§a矿石钻刷怪蛋",
+  "entity.mf:mdrill.name": "§l§a矿石钻"
+}

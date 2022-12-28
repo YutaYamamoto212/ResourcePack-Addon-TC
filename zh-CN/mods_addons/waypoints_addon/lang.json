@@ -1,1 +1,25 @@
-{}
+{
+  "ui.add": "添加",
+  "ui.tp": "传送",
+  "ui.waypoint.name": "定位点名称",
+  "ui.name": "名称",
+  "ui.text.color": "文字颜色",
+  "ui.waypoint.beam.color": "定位点颜色",
+  "ui.tp2": "传送至",
+  "ui.remove": "移除定位点",
+  "ui.notes": "说明：",
+  "ui.note1": "> 避免放置同名的定位点，否则您将无法传送并且无法正确移除它们。",
+  "ui.note2": "> 请记住使用命令“",
+  "ui.creator": "作者：§6O CHETTY O",
+  "ui.blue": "蓝色",
+  "ui.brown": "棕色",
+  "ui.cyan": "青色",
+  "ui.green": "绿色",
+  "ui.light_blue": "淡蓝色",
+  "ui.lime": "黄绿色",
+  "ui.magenta": "品红色",
+  "ui.orange": "橙色",
+  "ui.pink": "粉红色",
+  "ui.purple": "紫色",
+  "ui.light_gray": "淡灰色"
+}
