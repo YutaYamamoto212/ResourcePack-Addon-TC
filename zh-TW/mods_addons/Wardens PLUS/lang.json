@@ -1,1 +1,10 @@
-{}
+{
+  "entity.m:golden_warden.name": "黃金伏守者",
+  "item.spawn_egg.entity.m:golden_warden.name": "黃金伏守者 生怪蛋",
+  "entity.m:dinosaur_warden.name": "恐龍伏守者",
+  "item.spawn_egg.entity.m:dinosaur_warden.name": "恐龍伏守者 生怪蛋",
+  "item.spawn_egg.entity.m:frost_warden.name": "冰霜伏守者 生怪蛋",
+  "entity.m:frost_warden.name": "冰霜伏守者",
+  "entity.m:h_warden.name": "萬聖節伏守者",
+  "item.spawn_egg.entity.m:h_warden.name": "萬聖節伏守者 生怪蛋"
+}
