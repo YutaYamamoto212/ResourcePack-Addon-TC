@@ -1,1 +1,16 @@
-{}
+{
+  "tile.ip:bobabrownsugarmilktea.name": "波霸黑糖奶茶",
+  "tile.ip:tile.ip:bobamilktea.name": "波霸奶茶",
+  "tile.ip:fizzymango.name": "碳酸芒果",
+  "tile.ip:fizzystrawberry.name": "碳酸草莓",
+  "tile.ip:frappechocolate.name": "巧克力冰沙",
+  "tile.ip:frappegreentea.name": "绿茶冰沙",
+  "tile.ip:frappestrawberry.name": "草莓冰沙",
+  "tile.ip:frappevanilla.name": "香草冰沙",
+  "tile.ip:icedamericano.name": "冰美式咖啡",
+  "tile.ip:icedcappuccino.name": "冰卡布奇诺",
+  "tile.tile.ip:icedgreentealatte.name": "冰绿茶拿铁",
+  "tile.tile.ip:icedlemontea.name": "冰柠檬茶",
+  "tile.ip:icedtea.name": "冰茶",
+  "tile.ip:icedthaitea.name": "冰泰式茶"
+}
