@@ -1,1 +1,6 @@
-{}
+{
+  "item.spawn_egg.entity.MTMB:R160.name": "R160-NY列车刷怪蛋",
+  "entity.MTMB:R160.name": "R160-NY列车",
+  "accessibility.disableTTS": "文字到语音转换已禁用",
+  "accessibility.enableTTS": "文字到语音转换已启用"
+}
