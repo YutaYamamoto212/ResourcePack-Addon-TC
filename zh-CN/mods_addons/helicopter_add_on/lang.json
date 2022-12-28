@@ -1,1 +1,7 @@
-{}
+{
+  "item.spawn_egg.entity.adn:helicopter.name": "直升机",
+  "tile.adn:helicopter_crafter.name": "直升机工作台",
+  "tile.adn:fuel_maker_block.name": "燃料创造机",
+  "entity.adn:helicopter.name": "直升机",
+  "action.interact.add_fuel": "添加燃料"
+}

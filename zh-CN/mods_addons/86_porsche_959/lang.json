@@ -1,1 +1,23 @@
-{}
+{
+  "item.spawn_egg.entity.p959:red1.name": "'86保时捷959（红色）",
+  "item.spawn_egg.entity.p959:green1.name": "'86保时捷959（绿色）",
+  "item.spawn_egg.entity.p959:white1.name": "'86保时捷959（白色）",
+  "item.spawn_egg.entity.p959:silver1.name": "'86保时捷959（银色）",
+  "item.spawn_egg.entity.p959:orange1.name": "'86保时捷959（橙色）",
+  "item.spawn_egg.entity.p959:dakar1.name": "'86保时捷959（罗斯曼 - 巴黎达喀尔拉力赛）",
+  "item.spawn_egg.entity.p959:white_r1.name": "'86保时捷959（白色 - 拉力赛）",
+  "action.hint.exit.p959:red2": "§l§b拉力赛超级跑车",
+  "action.hint.exit.p959:green2": "§l§b拉力赛超级跑车",
+  "action.hint.exit.p959:orange2": "§l§b拉力赛超级跑车",
+  "action.hint.exit.p959:white2": "§l§b拉力赛超级跑车",
+  "action.hint.exit.p959:silver2": "§l§b拉力赛超级跑车",
+  "action.hint.exit.p959:dakar2": "§l§b拉力赛超级跑车",
+  "action.hint.exit.p959:white_r2": "§l§b拉力赛超级跑车",
+  "entity.p959:red2.name": "'86保时捷959",
+  "entity.p959:orange2.name": "'86保时捷959",
+  "entity.p959:white2.name": "'86保时捷959",
+  "entity.p959:silver2.name": "'86保时捷959",
+  "entity.p959:green2.name": "'86保时捷959",
+  "entity.p959:dakar2.name": "'86保时捷959",
+  "entity.p959:white_r2.name": "'86保时捷959"
+}

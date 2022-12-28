@@ -1,1 +1,24 @@
-{}
+{
+  "item.hamonbeat:stonemask_helmet": "石面头盔",
+  "item.hamonbeat:stonemask_chestplate": "石面胸甲",
+  "item.hamonbeat:stonemask_leggings": "石面护腿",
+  "item.hamonbeat:stonemask_boots": "石面靴子",
+  "item.spawn_egg.entity.hamonbeat:hamon_trader.name": "齐佩利刷怪蛋",
+  "entity.hamonbeat:hamon_trader.name": "齐佩利",
+  "item.spawn_egg.entity.hamonbeat:soapbubble.name": "肥皂泡刷怪蛋",
+  "entity.hamonbeat:soapbubble.name": "肥皂泡",
+  "item.spawn_egg.entity.hamonbeat:vampire.name": "吸血鬼刷怪蛋",
+  "entity.hamonbeat:vampire.name": "吸血鬼",
+  "item.hamonbeat:living_flesh": "活肉体",
+  "item.hamonbeat:vampiric_dust": "吸血鬼粉末",
+  "item.hamonbeat:hamonmask_helmet": "哈蒙面具头盔",
+  "item.hamonbeat:hamonmask_chestplate": "哈蒙面具胸甲",
+  "item.hamonbeat:hamonmask_leggings": "哈蒙面具护腿",
+  "item.hamonbeat:hamonmask_boots": "哈蒙面具靴子",
+  "item.hamonbeat:restoration_potion": "恢复药水",
+  "item.hamonbeat:ulf_helmet": "乌尔夫头盔",
+  "item.hamonbeat:ulf_chestplate": "乌尔夫胸甲",
+  "item.hamonbeat:ulf_leggings": "乌尔夫护腿",
+  "item.hamonbeat:ulf_boots": "乌尔夫靴子",
+  "item.hamonbeat:vampire_mask": "吸血鬼面具"
+}

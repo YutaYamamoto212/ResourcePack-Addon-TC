@@ -1,1 +1,12 @@
-{}
+{
+  "tile.euf:ese_mob_spawner_zombie.name": "殭尸刷怪笼",
+  "tile.euf:ese_mob_spawner_zombie": "殭尸刷怪笼",
+  "tile.euf:ese_mob_spawner_skeleton.name": "骷髅刷怪笼",
+  "tile.euf:ese_mob_spawner_skeleton": "骷髅刷怪笼",
+  "tile.euf:ese_mob_spawner_cow.name": "牛刷怪笼",
+  "tile.euf:ese_mob_spawner_cow": "牛刷怪笼",
+  "tile.euf:ese_mob_spawner_iron_golem.name": "铁傀儡刷怪笼",
+  "tile.euf:ese_mob_spawner_iron_golem": "铁傀儡刷怪笼",
+  "tile.euf:ese_mob_spawner_enderman.name": "末影人刷怪笼",
+  "tile.euf:ese_mob_spawner_enderman": "末影人刷怪笼"
+}

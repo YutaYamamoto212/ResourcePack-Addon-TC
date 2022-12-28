@@ -1,1 +1,11 @@
-{}
+{
+  "item.copper:c_helmet": "§6铜头盔",
+  "item.copper:c_chestplate": "§6铜胸甲",
+  "item.copper:c_leggings": "§6铜护腿",
+  "item.copper:c_boots": "§6铜靴子",
+  "item.copper:c_dynamo_runners": "发电机§6跑步者",
+  "item.copper:c_chestplate_heat_resistant": "隔热§6胸甲",
+  "item.copper:c_snow_heater_leggings": "导热§6护腿",
+  "item.copper:c_visor_helmet": "遮阳板§6头盔",
+  "item.copper:c_booster_boots": "跳跃提升§6靴子"
+}
