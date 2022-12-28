@@ -71,26 +71,32 @@ const mergeWithPackDataLANGFile = (mergedLangString, packDataLANGFile) => {
 const zhCNDirectories = ['zh-CN/maps', 'zh-CN/mods_addons', 'zh-CN/vanilla', 'zh-CN/chemistry'];
 const zhHKDirectories = ['zh-HK/maps', 'zh-HK/mods_addons', 'zh-HK/vanilla', 'zh-HK/chemistry'];
 const zhTWDirectories = ['zh-TW/maps', 'zh-TW/mods_addons', 'zh-TW/vanilla', 'zh-TW/chemistry'];
+// const lzhDirectories = ['lzh/maps', 'lzh/mods_addons', 'lzh/vanilla', 'lzh/chemistry'];
 
 // use the readJSONFiles function to get the array of JSON files for each language
 const zhCNJSONFiles = zhCNDirectories.map((dir) => readJSONFiles(dir)).flat();
 const zhHKJSONFiles = zhHKDirectories.map((dir) => readJSONFiles(dir)).flat();
 const zhTWJSONFiles = zhTWDirectories.map((dir) => readJSONFiles(dir)).flat();
+// const lzhJSONFiles = lzhDirectories.map((dir) => readJSONFiles(dir)).flat();
 
 // Step 7 : 
 const zhCNMergedLangString = mergeLANGFiles(zhCNJSONFiles);
 const zhHKMergedLangString = mergeLANGFiles(zhHKJSONFiles);
 const zhTWMergedLangString = mergeLANGFiles(zhTWJSONFiles);
+// const lzhMergedLangString = mergeLANGFiles(lzhJSONFiles);
 
 // Step 8
 const zhCNMergedLangWithPackData = mergeWithPackDataLANGFile(zhCNMergedLangString, 'pack_data/zh_CN.lang');
 const zhHKMergedLangWithPackData = mergeWithPackDataLANGFile(zhHKMergedLangString, 'pack_data/zh_HK.lang');
 const zhTWMergedLangWithPackData = mergeWithPackDataLANGFile(zhTWMergedLangString, 'pack_data/zh_TW.lang');
+// const lzhMergedLangWithPackData = mergeWithPackDataLANGFile(lzhMergedLangString, 'pack_data/lzh.lang');
 
 // Step 9
 fs.writeFileSync('resources/texts/zh_CN.lang', zhCNMergedLangWithPackData);
 fs.writeFileSync('resources/subpacks/zh_HK/texts/zh_TW.lang', zhHKMergedLangWithPackData);
 fs.writeFileSync('resources/texts/zh_TW.lang', zhTWMergedLangWithPackData);
+// fs.writeFileSync('resources/subpacks/lzh/texts/zh_TW.lang', lzhMergedLangWithPackData);
+fs.copyFileSync('pack_data/en_US.lang', 'resources/texts/en_US.lang');
 
 // Step 10
 const manifest = JSON.parse(fs.readFileSync('resources/manifest.json', 'utf8'));
@@ -119,5 +125,3 @@ increaseVersion(manifest.header.version);
 increaseVersion(manifest.modules[0].version);
 
 fs.writeFileSync('resources/manifest.json', JSON.stringify(manifest, null, 2));
-
-fs.copyFileSync('pack_data/en_US.lang', 'resources/texts/en_US.lang');
