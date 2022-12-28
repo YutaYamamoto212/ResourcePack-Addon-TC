@@ -97,5 +97,6 @@
   "action.hint.exit.unknown": "而家你可以旋轉它",
   "action.interact.rotar": "旋轉",
   "action.interact.patitas": "打開",
-  "action.interact.conducir": "潛水"
+  "action.interact.conducir": "潛水",
+  "action.interact.sit": "坐"
 }
