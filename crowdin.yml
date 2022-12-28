@@ -5,7 +5,6 @@ files:
       - zh-HK
       - zh-CN
       - vanilla
-      - chemistry
       - resources
       - node_modules
       - package.json
