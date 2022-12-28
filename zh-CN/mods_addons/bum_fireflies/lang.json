@@ -1,1 +1,15 @@
-{}
+{
+  "entity.bumble:firefly.name": "萤火虫",
+  "item.spawn_egg.entity.bumble:firefly.name": "萤火虫刷怪蛋",
+  "entity.bumble:firefly_blue.name": "蓝色萤火虫",
+  "item.spawn_egg.entity.bumble:firefly_blue.name": "蓝色萤火虫刷怪蛋",
+  "entity.bumble:firefly_red.name": "红色萤火虫",
+  "item.spawn_egg.entity.bumble:firefly_red.name": "红色萤火虫刷怪蛋",
+  "entity.bumble:firefly_jar.name": "装罐的萤火虫",
+  "item.bumble:firefly_bottle": "装瓶的萤火虫",
+  "item.bumble:firefly_bottle_blue": "装瓶的蓝色萤火虫",
+  "item.bumble:firefly_bottle_red": "装瓶的红色萤火虫",
+  "item.bumble:glass_jar": "玻璃罐",
+  "tile.bumble:glass_jar_block": "玻璃罐",
+  "action.interact.catch": "捕捉"
+}
