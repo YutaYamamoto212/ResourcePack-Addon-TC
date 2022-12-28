@@ -1,1 +1,17 @@
-{}
+{
+  "item.eat:oak_sapling.name": "橡树树苗",
+  "item.eat:oak_sapling": "橡树树苗",
+  "item.eat:spruce_sapling.name": "云杉树苗",
+  "item.eat:spruce_sapling": "云杉树苗",
+  "item.eat:birch_sapling.name": "白桦树苗",
+  "item.eat:birch_sapling": "白桦树苗",
+  "item.eat:jungle_sapling.name": "丛林树苗",
+  "item.eat:jungle_sapling": "丛林树苗",
+  "item.eat:acacia_sapling.name": "金合欢树苗",
+  "item.eat:acacia_sapling": "金合欢树苗",
+  "item.eat:dark_oak_sapling.name": "深色橡树树苗",
+  "item.eat:dark_oak_sapling": "深色橡树树苗",
+  "item.eat:mangrove_propagule.name": "红树胎生苗",
+  "item.eat:mangrove_propagule": "红树胎生苗",
+  "action.interact.sit": "坐"
+}
