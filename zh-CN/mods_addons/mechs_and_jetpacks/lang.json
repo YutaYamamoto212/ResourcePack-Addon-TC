@@ -1,1 +1,11 @@
-﻿{}
+﻿{
+  "item.spawn_egg.entity.goodlord:jetpack.name": "喷射背包刷怪蛋",
+  "action.hint.exit.unknown": "现在你可以旋转它",
+  "action.hint.exit.goodlord:mech": "点击潜行以取消乘坐",
+  "action.hint.exit.goodlord:jetpack": "点击潜行以取消乘坐",
+  "action.hint.exit.goodlord:mech_drill": "点击潜行以取消乘坐",
+  "action.hint.exit.goodlord:mech3": "点击潜行以取消乘坐",
+  "action.hint.exit.goodlord:space_jetpack": "点击潜行以取消乘坐",
+  "action.hint.exit.goodlord:large_miner": "点击潜行以取消乘坐",
+  "action.hint.exit.goodlord:class8_fighter": "点击潜行以取消乘坐"
+}
