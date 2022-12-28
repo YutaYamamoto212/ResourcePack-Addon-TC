@@ -1,0 +1,20 @@
+{
+  "tile.honkit26113:block_of_candy_red.name": "Red Block of Candy",
+  "tile.honkit26113:block_of_candy_white.name": "White Block of Candy",
+  "tile.honkit26113:candy_cane.name": "Candy Cane",
+  "tile.honkit26113:christmas_lights.name": "Christmas Lights",
+  "tile.honkit26113:christmas_stocking.name": "Christmas Stocking",
+  "tile.honkit26113:christmas_tree.name": "Christmas Tree",
+  "tile.honkit26113:christmas_wreath.name": "Christmas Wreath",
+  "tile.honkit26113:mini_christmas_tree.name": "Mini Christmas Tree",
+  "tile.honkit26113:gingerbread_block.name": "Gingerbread Block",
+  "tile.honkit26113:present_blue.name": "Blue Present",
+  "tile.honkit26113:present_green.name": "Green Present",
+  "tile.honkit26113:present_red.name": "Red Present",
+  "tile.honkit26113:present_yellow.name": "Yellow Present",
+  "item.honkit26113:candy_red": "Red Candy",
+  "item.honkit26113:candy_white": "White Candy",
+  "item.honkit26113:gingerbread_man": "Gingerbread Man",
+  "entity.honkit26113:gingerbread_man.name": "Gingerbread Man",
+  "item.spawn_egg.entity.honkit26113:gingerbread_man.name": "Spawn Gingerbread Man"
+}

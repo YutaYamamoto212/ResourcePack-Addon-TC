@@ -1,0 +1,15 @@
+{
+  "tile.carnival:red_gift.name": "Red Gift",
+  "tile.carnival:blue_gift.name": "Blue Gift",
+  "tile.carnival:candy_cane.name": "Candy Cane Decor",
+  "tile.carnival:christmas_wreath.name": "Christmas Wreath",
+  "item.carnival:edible_candy_cane.name": "Candy Cane",
+  "item.carnival:gingerbread_cookie.name": "Gingerbread Cookie",
+  "item.spawn_egg.entity.carnival:red_sleigh.name": "Red Sleigh",
+  "item.spawn_egg.entity.carnival:blue_sleigh.name": "Blue Sleigh",
+  "item.carnival:santa_hat": "Red Christmas Hat",
+  "item.carnival:blue_hat": "Blue Christmas Hat",
+  "item.carnival:yellow_hat": "Yellow Christmas Hat",
+  "action.hint.exit.carnival:red_sleigh": "Jump Or Sneak To Get Out Of The Sleigh",
+  "action.hint.exit.carnival:blue_sleigh": "Jump Or Sneak To Get Out Of The Sleigh"
+}
