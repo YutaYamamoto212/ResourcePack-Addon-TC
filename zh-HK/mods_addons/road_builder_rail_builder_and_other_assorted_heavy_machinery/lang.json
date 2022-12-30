@@ -1,1 +1,22 @@
-﻿{}
+﻿{
+  "entity.goodlord:road_tractor.name": "道路建造者",
+  "item.spawn_egg.entity.goodlord:road_tractor.name": "道路建造者",
+  "entity.goodlord:rail_tractor.name": "路軌建造者",
+  "item.spawn_egg.entity.goodlord:rail_tractor.name": "路軌建造者",
+  "action.hint.exit.goodlord:rail_tractor": "點按潛行取消乘搭",
+  "action.hint.exit.goodlord:mower": "點按潛行取消乘搭，注意你嘅腳",
+  "action.hint.exit.goodlord:road_tractor": "點按潛行取消乘搭",
+  "action.hint.exit.goodlord:cement_truck": "點按潛行取消乘搭",
+  "action.hint.exit.goodlord:miner": "點按潛行取消乘搭",
+  "action.hint.exit.goodlord:paver": "點按潛行取消乘搭",
+  "action.hint.exit.goodlord:wall_builder": "點按潛行取消乘搭",
+  "action.hint.exit.goodlord:highway_tractor": "點按潛行取消乘搭",
+  "action.interact.wood_mode": "開啟木頭模式",
+  "action.interact.stone_mode": "開啟石頭模式",
+  "action.interact.road_mode": "開啟道路模式",
+  "action.interact.off_mode": "關閉",
+  "action.interact.mode1": "模式一",
+  "action.interact.mode2": "模式二",
+  "action.interact.mode3": "模式三",
+  "item.goodlord:grass_fuel.name": "草燃料"
+}
