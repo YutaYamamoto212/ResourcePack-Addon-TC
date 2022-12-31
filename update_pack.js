@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { zip } = require('zip-a-folder');
 const { v4: uuidv4 } = require('uuid');
 
 // Step 1 : Update version numbers in LANG files
@@ -171,3 +172,27 @@ increaseVersion(manifest.header.version);
 increaseVersion(manifest.modules[0].version);
 
 fs.writeFileSync('resources/manifest.json', JSON.stringify(manifest, null, 2));
+
+const resourceDirectory = 'resources';
+
+// Read the en_US.lang file to get the version number
+const enUsLangPath = `${resourceDirectory}/texts/en_US.lang`;
+let version = 'unknown';
+if (fs.existsSync(enUsLangPath)) {
+  const langString = fs.readFileSync(enUsLangPath, 'utf8');
+  const regex = /v\d+\.\d+\.\d+/g;
+  const matches = regex.exec(langString);
+  if (matches !== null) {
+    version = matches[0].slice(1).replace(/\./g, '');
+  }
+}
+
+// Create the ZIP file
+const zipPath = `resourcepack_addon_zh_v${version}.mcpack`;
+zip(resourceDirectory, zipPath, (err) => {
+  if (err) {
+    console.error(err);
+  } else {
+    console.log(`Successfully created ZIP file at ${zipPath}`);
+  }
+});
