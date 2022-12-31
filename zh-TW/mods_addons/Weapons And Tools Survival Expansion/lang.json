@@ -1,1 +1,22 @@
-{}
+{
+  "tile.sat:workbench.name": "工作台",
+  "tile.sat:salvage_table.name": "回收台",
+  "item.sat:wooden_dagger": "木製匕首",
+  "item.sat:stone_dagger": "石製匕首",
+  "item.sat:iron_dagger": "鐵製匕首",
+  "item.sat:gold_dagger": "黃金匕首",
+  "item.sat:diamond_dagger": "鑽石匕首",
+  "item.sat:netherite_dagger": "獄髓匕首",
+  "item.sat:wooden_shortsword": "木製短劍",
+  "item.sat:stone_shortsword": "石製短劍",
+  "item.sat:iron_shortsword": "鐵製短劍",
+  "item.sat:gold_shortsword": "黃金短劍",
+  "item.sat:diamond_shortsword": "鑽石短劍",
+  "item.sat:netherite_shortsword": "獄髓短劍",
+  "item.sat:wooden_longsword": "木製長劍",
+  "item.sat:stone_longsword": "石製長劍",
+  "item.sat:iron_longsword": "鐵製長劍",
+  "item.sat:gold_longsword": "黃金長劍",
+  "item.sat:diamond_longsword": "鑽石長劍",
+  "item.sat:netherite_longsword": "獄髓長劍"
+}
