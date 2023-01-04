@@ -1,0 +1,12 @@
+{
+  "item.goblin:mining_tome.name": "§d?",
+  "item.goblin:mining_tome": "§d?",
+  "item.goblin:attack_tome.name": "§6?",
+  "item.goblin:attack_tome": "§6?",
+  "item.goblin:defence_tome.name": "§b?",
+  "item.goblin:defence_tome": "§b?",
+  "item.spawn_egg.entity.goblin:goblin_trader.name": "Spawn Goblin Trader",
+  "entity.goblin:goblin_trader.name": "Goblin Trader",
+  "item.spawn_egg.entity.goblin:vein_trader.name": "Spawn Vein Goblin Trader",
+  "entity.goblin:vein_trader.name": "Vein Goblin Trader"
+}
