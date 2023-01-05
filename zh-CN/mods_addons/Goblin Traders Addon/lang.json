@@ -5,5 +5,8 @@
   "item.goblin:attack_tome": "§6？",
   "item.goblin:defence_tome.name": "§b？",
   "item.goblin:defence_tome": "§b？",
-  "entity.goblin:goblin_trader.name": "哥布林商人"
+  "item.spawn_egg.entity.goblin:goblin_trader.name": "哥布林商人刷怪蛋",
+  "entity.goblin:goblin_trader.name": "哥布林商人",
+  "item.spawn_egg.entity.goblin:vein_trader.name": "下界哥布林商人刷怪蛋",
+  "entity.goblin:vein_trader.name": "下界哥布林商人"
 }
