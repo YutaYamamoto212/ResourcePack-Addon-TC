@@ -1,1 +1,23 @@
-{}
+{
+  "item.spawn_egg.entity.monsterverse:godzilla.name": "§9泰坦努斯§b戈吉拉§r 生怪蛋",
+  "item.spawn_egg.entity.monsterverse:godzilla_controlled.name": "§9泰坦努斯§b戈吉拉§r 生怪蛋§f（可操控）",
+  "entity.monsterverse:godzilla.name": "§9泰坦努斯§b戈吉拉§f",
+  "entity.monsterverse:godzilla_controlled.name": "§9泰坦努斯§b戈吉拉§f",
+  "item.spawn_egg.entity.monsterverse:thermo_godzilla.name": "§6熱核§c哥斯拉§r 生怪蛋",
+  "entity.monsterverse:thermo_godzilla.name": "§6熱核§c哥斯拉§f",
+  "entity.monsterverse:thermo_godzilla_controlled.name": "§6熱核§c哥斯拉§f",
+  "item.spawn_egg.entity.monsterverse:thermo_godzilla_controlled.name": "§6熱核§c哥斯拉§r 生怪蛋§f（可操控）",
+  "item.spawn_egg.entity.monsterverse:kong.name": "§6金剛§e泰坦§r 生怪蛋",
+  "entity.monsterverse:kong_controlled.name": "§6金剛§e泰坦§f",
+  "entity.monsterverse:kong.name": "§6金剛§e泰坦§f",
+  "item.spawn_egg.entity.monsterverse:kong_with_axe.name": "帶有§b斧頭§f的§6金剛§e泰坦§r 生怪蛋",
+  "entity.monsterverse:kong_with_axe.name": "帶有§b斧頭§f的§6金剛§e泰坦§f",
+  "item.spawn_egg.entity.monsterverse:kong_with_axe_controlled.name": "帶有§b斧頭§f的§6金剛§e泰坦§r 生怪蛋§f（可操控）",
+  "entity.monsterverse:kong_with_axe_controlled.name": "帶有§b斧頭§f的§6金剛§e泰坦§f",
+  "item.spawn_egg.entity.ancient:axe.name": "§9古代§b斧頭§r 生怪蛋",
+  "entity.ancient:axe.name": "§9古代§b斧頭§f",
+  "item.spawn_egg.entity.monsterverse:mecha_godzilla.name": "§7機甲§c哥斯拉§r 生怪蛋",
+  "entity.monsterverse:mecha_godzilla.name": "§7機甲§c哥斯拉§f",
+  "item.spawn_egg.entity.monsterverse:mecha_godzilla_controlled.name": "§7機甲§c哥斯拉§r 生怪蛋§f（可操控）",
+  "entity.monsterverse:mecha_godzilla_controlled.name": "§7機甲§c哥斯拉§f"
+}
