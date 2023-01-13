@@ -1,1 +1,8 @@
-{}
+{
+  "entity.sat:wooden_spear": "木矛",
+  "entity.sat:stone_spear": "石矛",
+  "entity.sat:iron_spear": "铁矛",
+  "entity.sat:gold_spear": "金矛",
+  "entity.sat:diamond_spear": "钻石矛",
+  "entity.sat:netherite_spear": "下界合金矛"
+}
