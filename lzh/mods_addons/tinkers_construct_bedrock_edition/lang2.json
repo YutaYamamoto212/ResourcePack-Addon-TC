@@ -1,1 +1,5 @@
-{}
+{
+  "tile.strat:crafting_station.name": "合成站",
+  "tile.strat:part_builder_firewood.name": "部件加工台（柴火木）",
+  "tile.strat:firewood.name": "柴火木"
+}
