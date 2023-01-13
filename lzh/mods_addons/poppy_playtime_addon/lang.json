@@ -1,1 +1,8 @@
-{}
+{
+  "action.hint.exit.bd:huggy_wuggy_bd": "擁抱",
+  "action.interact.ride.bd:huggy_wuggy_bd": "開啟",
+  "entity.bd:huggy_wuggy_bd.name": "哈吉伍吉",
+  "item.spawn_egg.entity.bd:huggy_wuggy_bd.name": "哈吉伍吉 生怪蛋",
+  "tile.bd:huggy_wuggy_bd_statue.name": "哈吉伍吉雕像",
+  "tile.bd:huggy_wuggy_bd_statue_map.name": "哈吉伍吉雕像（用於地圖製作）"
+}
