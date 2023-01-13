@@ -827,7 +827,7 @@
   "commands.execute.allInvocationsFailed": "無法進行任何援引：'%1$s'",
   "commands.execute.description": "可代表一或多個實體執行命令。",
   "commands.execute.failed": "無法執行 '%1$s' 喺 %2$s 上",
-  "commands.execute.falseCondition": "執行子命令 %1$s %2$s 解析 FALSE。",
+  "commands.execute.falseCondition": "執行子命令 %1$s %2$s 測試失敗。",
   "commands.execute.falseConditionWithCount": "執行子指令 %1$s %2$s 測試失敗，總計：%3$s。",
   "commands.execute.ifUnlessBlocks.tooManyBlocks": "檢查太多方塊。最大方塊計數：%1$s。當前方塊計數：%2$s。",
   "commands.execute.ifUnlessScore.objectiveNotFound": "未找到名稱為 '%1$s' 嘅目標",
