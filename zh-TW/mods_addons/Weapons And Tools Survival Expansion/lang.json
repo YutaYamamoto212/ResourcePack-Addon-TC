@@ -18,5 +18,11 @@
   "item.sat:iron_longsword": "鐵製長劍",
   "item.sat:gold_longsword": "黃金長劍",
   "item.sat:diamond_longsword": "鑽石長劍",
-  "item.sat:netherite_longsword": "獄髓長劍"
+  "item.sat:netherite_longsword": "獄髓長劍",
+  "entity.sat:wooden_spear": "木矛",
+  "entity.sat:stone_spear": "石矛",
+  "entity.sat:iron_spear": "鐵矛",
+  "entity.sat:gold_spear": "金矛",
+  "entity.sat:diamond_spear": "鑽石矛",
+  "entity.sat:netherite_spear": "獄髓矛"
 }

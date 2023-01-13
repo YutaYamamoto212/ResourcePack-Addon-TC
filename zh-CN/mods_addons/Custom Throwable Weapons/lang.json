@@ -1,1 +1,14 @@
-{}
+{
+  "item.tw:wooden_spear.name": "木矛",
+  "item.tw:stone_spear.name": "石矛",
+  "item.tw:iron_spear.name": "铁矛",
+  "item.tw:golden_spear.name": "金矛",
+  "item.tw:diamond_spear.name": "钻石矛",
+  "item.tw:netherite_spear.name": "下界合金矛",
+  "entity.tw:wooden_spear_thrown.name": "木矛",
+  "entity.tw:stone_spear_thrown.name": "石矛",
+  "entity.tw:iron_spear_thrown.name": "铁矛",
+  "entity.tw:golden_spear_thrown.name": "金矛",
+  "entity.tw:diamond_spear_thrown.name": "钻石矛",
+  "entity.tw:netherite_spear_thrown.name": "下界合金矛"
+}

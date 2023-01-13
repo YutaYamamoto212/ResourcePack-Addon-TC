@@ -1,1 +1,6 @@
-{}
+{
+  "item.fred:cosmo.name": "§1宇宙能量等級 1",
+  "item.fred:cosmo2.name": "§6宇宙能量等級 2",
+  "item.fred:cosmo3.name": "§4宇宙能量等級 3",
+  "accessibility.chat.howtoopen": "§3在 YouTube/Fredzim 上取得更多更新。如果您要讓附加包下載，請留下我的影片連結或 MCPE DL，否則您將收到版權通知。"
+}
