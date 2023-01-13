@@ -1,1 +1,12 @@
-﻿{}
+﻿{
+  "item.spawn_egg.entity.spiderverse:green_goblin_spiderman3.name": "綠惡魔 (蜘蛛人 3) 生怪蛋",
+  "entity.spiderverse:green_goblin_spiderman3.name": "綠惡魔 (蜘蛛人 3)",
+  "item.spawn_egg.entity.spiderverse:green_goblin_no_way_home.name": "綠惡魔 (蜘蛛人 無家日) 生怪蛋",
+  "entity.spiderverse:green_goblin_no_way_home.name": "綠惡魔 (蜘蛛人 無家日)",
+  "item.spawn_egg.entity.spiderverse:rhino_ps4.name": "犀牛 生怪蛋",
+  "entity.spiderverse:rhino_ps4.name": "犀牛",
+  "item.spawn_egg.entity.spiderverse:scorpion.name": "毒蠍 生怪蛋",
+  "entity.spiderverse:scorpion.name": "毒蠍",
+  "item.spawn_egg.entity.spiderverse:buitre.name": "禿鷹 生怪蛋",
+  "entity.spiderverse:buitre.name": "禿鷹"
+}
