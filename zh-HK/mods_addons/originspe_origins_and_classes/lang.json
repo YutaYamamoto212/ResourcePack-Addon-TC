@@ -128,5 +128,6 @@
   "origins.trait.elytra.name": "飛翼",
   "origins.trait.elytra.description": "您唔需裝備任何鞘翅即可擁有鞘翅，並且永遠不會遺失也不會被移除。",
   "origins.trait.light_armor.name": "追求行動力",
-  "origins.trait.light_armor.description": "唔適合着任何由鐵、鑽石或地獄合金組成嘅重型盔甲。"
+  "origins.trait.light_armor.description": "唔適合着任何由鐵、鑽石或地獄合金組成嘅重型盔甲。",
+  "createWorldScreen.gameMode.spectator": "旁觀模式"
 }

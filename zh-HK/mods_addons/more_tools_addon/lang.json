@@ -1,1 +1,23 @@
-{}
+{
+  "tile.sp:ruby_block.name": "紅寶石磚",
+  "tile.sp:ruby_ore.name": "紅寶石礦",
+  "item.sp:ruby_helmet": "紅寶石頭盔",
+  "item.sp:ruby_chestplate": "紅寶石胸甲",
+  "item.sp:ruby_leggings": "紅寶石護腳",
+  "item.sp:ruby_boots": "紅寶石靴",
+  "item.sp:ruby": "紅寶石",
+  "tile.sp:sapphire_ore.name": "藍寶石礦",
+  "tile.sp:sapphire_block.name": "藍寶石磚",
+  "item.sp:sapphire_helmet": "藍寶石頭盔",
+  "item.sp:sapphire_chestplate": "藍寶石胸甲",
+  "item.sp:sapphire_leggings": "藍寶石護腳",
+  "item.sp:sapphire_boots": "藍寶石磚",
+  "tile.sp:deepslate_ruby_ore.name": "深層紅寶石礦",
+  "tile.sp:andesite_ruby_ore.name": "安山岩紅寶石礦",
+  "tile.sp:diorite_ruby_ore.name": "閃長岩紅寶石礦",
+  "tile.sp:granite_ruby_ore.name": "花崗岩紅寶石礦",
+  "tile.sp:deepslate_sapphire_ore.name": "深層藍寶石礦",
+  "tile.sp:andesite_sapphire_ore.name": "安山岩藍寶石礦",
+  "tile.sp:diorite_sapphire_ore.name": "閃長岩藍寶石礦",
+  "tile.sp:granite_sapphire_ore.name": "花崗岩藍寶石礦"
+}

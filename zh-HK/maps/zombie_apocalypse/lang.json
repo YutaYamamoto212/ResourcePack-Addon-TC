@@ -1,1 +1,8 @@
-{}
+{
+  "tile.chest.name": "儲物箱",
+  "item.diamond.name": "鑽石",
+  "item.dye.blue.name": "青金石",
+  "item.netherite_ingot.name": "地獄合金錠",
+  "item.netherite_scrap.name": "地獄合金碎片",
+  "item.gold_nugget.name": "金粒"
+}
