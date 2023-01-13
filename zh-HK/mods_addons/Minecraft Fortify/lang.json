@@ -1,1 +1,12 @@
-{}
+{
+  "item.yes:amethyst_boots.name": "紫水晶靴",
+  "item.yes:amethyst_chestplate.name": "紫水晶胸甲",
+  "item.yes:amethyst_helmet.name": "紫水晶頭盔",
+  "item.yes:amethyst_leggings.name": "紫水晶護腳",
+  "item.yes:amethyst_sword.name": "紫水晶劍",
+  "item.yes:amethyst_pickaxe.name": "紫水晶鎬",
+  "item.yes:amethyst_shovel.name": "紫水晶鏟",
+  "item.yes:amethyst_axe.name": "紫水晶斧頭",
+  "item.yes:amethyst_hoe.name": "紫水晶鋤頭",
+  "item.yes:amethyst_spear.name": "紫水晶矛"
+}
