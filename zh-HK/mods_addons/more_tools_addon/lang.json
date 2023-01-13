@@ -1,4 +1,8 @@
 {
+  "item.sp:amethyst_helmet": "紫水晶頭盔",
+  "item.sp:amethyst_chestplate": "紫水晶胸甲",
+  "item.sp:amethyst_leggings": "紫水晶護腳",
+  "item.sp:amethyst_boots": "紫水晶靴",
   "tile.sp:ruby_block.name": "紅寶石磚",
   "tile.sp:ruby_ore.name": "紅寶石礦",
   "item.sp:ruby_helmet": "紅寶石頭盔",
@@ -12,6 +16,16 @@
   "item.sp:sapphire_chestplate": "藍寶石胸甲",
   "item.sp:sapphire_leggings": "藍寶石護腳",
   "item.sp:sapphire_boots": "藍寶石磚",
+  "item.sp:topaz_helmet": "黃玉頭盔",
+  "item.sp:topaz_chestplate": "黃玉胸甲",
+  "item.sp:topaz_leggings": "黃玉護腳",
+  "item.sp:topaz_boots": "黃玉靴",
+  "tile.sp:topaz_ore.name": "黃玉礦",
+  "tile.sp:topaz_block.name": "黃玉磚",
+  "tile.sp:deepslate_topaz_ore.name": "深層黃玉礦",
+  "tile.sp:andesite_topaz_ore.name": "安山岩黃玉礦",
+  "tile.sp:diorite_topaz_ore.name": "閃長岩黃玉礦",
+  "tile.sp:granite_topaz_ore.name": "花崗岩黃玉礦",
   "tile.sp:deepslate_ruby_ore.name": "深層紅寶石礦",
   "tile.sp:andesite_ruby_ore.name": "安山岩紅寶石礦",
   "tile.sp:diorite_ruby_ore.name": "閃長岩紅寶石礦",
@@ -19,5 +33,7 @@
   "tile.sp:deepslate_sapphire_ore.name": "深層藍寶石礦",
   "tile.sp:andesite_sapphire_ore.name": "安山岩藍寶石礦",
   "tile.sp:diorite_sapphire_ore.name": "閃長岩藍寶石礦",
-  "tile.sp:granite_sapphire_ore.name": "花崗岩藍寶石礦"
+  "tile.sp:granite_sapphire_ore.name": "花崗岩藍寶石礦",
+  "tile.sp:netherrack_jade_ore.name": "地獄翡翠礦",
+  "tile.sp:jade_block.name": "翡翠磚"
 }
