@@ -4,7 +4,7 @@ files:
       - zh-TW
       - zh-HK
       - zh-CN
-      - vanilla
+      - lzh
       - resources
       - node_modules
       - package.json
