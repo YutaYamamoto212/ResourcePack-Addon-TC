@@ -3,7 +3,7 @@
   "header": {
     "name": "pack.name",
     "description": "pack.description",
-    "uuid": "1e14c43d-4670-41c4-aa4f-47822cb6d4cd",
+    "uuid": "fd6c266a-5692-4597-badd-feb3f5cdcb14",
     "version": [
       1,
       4,
@@ -18,7 +18,7 @@
   "modules": [
     {
       "type": "resources",
-      "uuid": "c2a94525-afe7-40c7-a889-29b329d5c0b9",
+      "uuid": "5984945c-bb14-470a-acbe-2eb0364add00",
       "version": [
         1,
         4,
@@ -27,6 +27,11 @@
     }
   ],
   "subpacks": [
+    {
+      "folder_name": "lzh",
+      "name": "§l文言（華夏）§r",
+      "memory_tier": 1
+    },
     {
       "folder_name": "zh_HK",
       "name": "繁體中文供 §l香港特別行政區§r 使用",
