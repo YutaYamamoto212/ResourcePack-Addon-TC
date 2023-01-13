@@ -1,1 +1,12 @@
-{}
+{
+  "tile.euf:ese_mob_spawner_zombie.name": "殭屍 生怪磚",
+  "tile.euf:ese_mob_spawner_zombie": "殭屍 生怪磚",
+  "tile.euf:ese_mob_spawner_skeleton.name": "骷髏 生怪磚",
+  "tile.euf:ese_mob_spawner_skeleton": "骷髏 生怪磚",
+  "tile.euf:ese_mob_spawner_cow.name": "牛 生怪磚",
+  "tile.euf:ese_mob_spawner_cow": "牛 生怪磚",
+  "tile.euf:ese_mob_spawner_iron_golem.name": "鐵魔像 生怪磚",
+  "tile.euf:ese_mob_spawner_iron_golem": "鐵魔像 生怪磚",
+  "tile.euf:ese_mob_spawner_enderman.name": "終界使者 生怪磚",
+  "tile.euf:ese_mob_spawner_enderman": "終界使者 生怪磚"
+}
