@@ -1,0 +1,16 @@
+{
+  "item.eat:oak_sapling.name": "柞秧",
+  "item.eat:oak_sapling": "柞秧",
+  "item.eat:spruce_sapling.name": "樅秧",
+  "item.eat:spruce_sapling": "樅秧",
+  "item.eat:birch_sapling.name": "樺秧",
+  "item.eat:birch_sapling": "樺秧",
+  "item.eat:jungle_sapling.name": "叢莽秧",
+  "item.eat:jungle_sapling": "叢莽秧",
+  "item.eat:acacia_sapling.name": "㭜秧",
+  "item.eat:acacia_sapling": "㭜秧",
+  "item.eat:dark_oak_sapling.name": "黯柞秧",
+  "item.eat:dark_oak_sapling": "黯柞秧",
+  "item.eat:mangrove_propagule.name": "沒潮木胚",
+  "item.eat:mangrove_propagule": "沒潮木胚"
+}
