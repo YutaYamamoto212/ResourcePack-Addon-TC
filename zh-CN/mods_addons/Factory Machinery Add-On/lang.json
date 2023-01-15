@@ -1,0 +1,22 @@
+{
+  "item.coal.name": "煤炭",
+  "item.charcoal.name": "木炭",
+  "item.dye.blue.name": "青金石",
+  "item.iron_ingot.name": "铁锭",
+  "item.gold_nugget.name": "金粒",
+  "item.gold_ingot.name": "金锭",
+  "item.redstone.name": "红石粉",
+  "item.copper_ingot.name": "铜锭",
+  "item.emerald.name": "绿宝石",
+  "item.diamond.name": "钻石",
+  "tile.ancient_debris.name": "远古残骸",
+  "item.netherite_scrap.name": "下界合金碎片",
+  "item.raw_copper.name": "粗铜",
+  "item.raw_iron.name": "粗铁",
+  "item.raw_gold.name": "粗金",
+  "tile.cobblestone.name": "圆石",
+  "tile.stone.diorite.name": "闪长岩",
+  "tile.stone.andesite.name": "安山岩",
+  "tile.stone.granite.name": "花岗岩",
+  "tile.cobbled_deepslate.name": "深板岩圆石"
+}
