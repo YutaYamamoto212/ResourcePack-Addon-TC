@@ -254,8 +254,8 @@
   "item.spawn_egg.entity.vatonage:emerald_steve.name": "綠寶石 Steve 生怪蛋",
   "entity.vatonage:furnace_golem.name": "熔爐魔像",
   "item.spawn_egg.entity.vatonage:furnace_golem.name": "熔爐魔像 生怪蛋",
-  "entity.vatonage:golden_zombie.name": "黃金殭屍",
-  "item.spawn_egg.entity.vatonage:golden_zombie.name": "黃金殭屍 生怪蛋",
+  "entity.vatonage:golden_zombie.name": "金屍",
+  "item.spawn_egg.entity.vatonage:golden_zombie.name": "孳金屍之卵",
   "entity.vatonage:nether_golem.name": "地獄魔像",
   "item.spawn_egg.entity.vatonage:nether_golem.name": "地獄魔像 生怪蛋",
   "entity.vatonage:prismarine_defender.name": "海磷衛士",
@@ -416,8 +416,8 @@
   "item.blay:life_ring1.name": "生命戒指§2（開啟）",
   "item.blay:emerald_ring.name": "綠寶石戒指§4（關閉）",
   "item.blay:emerald_ring1.name": "綠寶石戒指§2（開啟）",
-  "item.spawn_egg.entity.sp:blood_zombie.name": "血殭屍 生怪蛋",
-  "entity.sp:blood_zombie.name": "血殭屍",
+  "item.spawn_egg.entity.sp:blood_zombie.name": "孳血屍之卵",
+  "entity.sp:blood_zombie.name": "血屍",
   "item.sp:shuriken": "手裏劍",
   "entity.sp:shuriken_projectile.name": "手裏劍"
 }
