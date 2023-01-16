@@ -29,7 +29,7 @@
   "subpacks": [
     {
       "folder_name": "lzh",
-      "name": "§l文言（華夏）§r",
+      "name": "§l文言（華夏）§r§o（實驗性）§r",
       "memory_tier": 1
     },
     {
