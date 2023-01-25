@@ -13,8 +13,8 @@
   "item.spawn_egg.entity.m:golden_warden.name": "Spawn Golden Warden",
   "entity.m:rorden.name": "Rorden",
   "item.spawn_egg.entity.m:rorden.name": "Spawn Rorden",
-  "entity.m:dinosaur_warden.name": "Dinosaur Warden",
-  "item.spawn_egg.entity.m:dinosaur_warden.name": "Spawn Dinosaur Warden",
+  "entity.m:t-rex_warden.name": "T-Rex Warden",
+  "item.spawn_egg.entity.m:t-rex_warden.name": "Spawn T-Rex Warden",
   "entity.m:dark_zorden.name": "Dark Zorden",
   "item.spawn_egg.entity.m:dark_zorden.name": "Spawn Dark Zorden",
   "item.spawn_egg.entity.m:dark_sorden.name": "Spawn Dark Sorden",
@@ -61,8 +61,8 @@
   "item.spawn_egg.entity.m:crystal_warden.name": "Spawn Crystal Warden",
   "entity.m:advanced_hollowed.name": "Advanced Hollowed",
   "item.spawn_egg.entity.m:advanced_hollowed.name": "Spawn Advanced Hollowed",
-  "entity.m:minisaur.name": "Minisaur",
-  "item.spawn_egg.entity.m:minisaur.name": "Spawn Minisaur",
+  "entity.m:dinosaur_warden.name": "Dinosaur Warden",
+  "item.spawn_egg.entity.m:dinosaur_warden.name": "Spawn Dinosaur Warden",
   "entity.m:caster_warden.name": "Caster Warden",
   "item.spawn_egg.entity.m:caster_warden.name": "Spawn Caster Warden",
   "entity.m:soul_warden.name": "Soul Warden",
@@ -82,5 +82,7 @@
   "entity.m:pink_warden.name": "Pink Warden",
   "item.spawn_egg.entity.m:pink_warden.name": "Spawn Pink Warden",
   "entity.m:tangerine_warden.name": "Tangerine Warden",
-  "item.spawn_egg.entity.m:tangerine_warden.name": "Spawn Tangerine Warden"
+  "item.spawn_egg.entity.m:tangerine_warden.name": "Spawn Tangerine Warden",
+  "entity.m:chimera_warden.name": "Chimera Warden",
+  "item.spawn_egg.entity.m:chimera_warden.name": "Spawn Chimera Warden"
 }
