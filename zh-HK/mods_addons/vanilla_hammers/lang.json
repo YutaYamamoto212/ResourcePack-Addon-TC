@@ -1,1 +1,10 @@
-{}
+{
+  "item.w:wood_hammer": "木錘",
+  "item.w:stone_hammer": "石錘",
+  "item.w:iron_hammer": "鐵錘",
+  "item.w:gold_hammer": "金錘",
+  "item.w:diamond_hammer": "鑽石錘",
+  "item.w:netherite_hammer": "地獄合金錘",
+  "item.w:emerald_hammer": "綠寶石錘",
+  "item.w:coal_hammer": "煤炭錘"
+}

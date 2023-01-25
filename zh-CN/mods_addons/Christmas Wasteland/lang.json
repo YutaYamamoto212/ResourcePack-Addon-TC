@@ -1,1 +1,24 @@
-{}
+{
+  "tile.vatonage:present.name": "礼物（§c圣§f诞§c荒§f地）",
+  "tile.vatonage:bluesand.name": "蓝沙（§c圣§f诞§c荒§f地）",
+  "tile.vatonage:chocolate.name": "巧克力块（§c圣§f诞§c荒§f地）",
+  "tile.vatonage:gingerbread.name": "姜饼块（§c圣§f诞§c荒§f地）",
+  "action.hint.exit.vatonage:reindeer": "驯鹿",
+  "action.hint.exit.vatonage:sled": "雪橇",
+  "entity.vatonage:reindeer.name": "驯鹿",
+  "item.spawn_egg.entity.vatonage:reindeer.name": "驯鹿刷怪蛋（§c圣§f诞§c荒§f地）",
+  "entity.vatonage:sled.name": "雪橇",
+  "item.spawn_egg.entity.vatonage:sled.name": "雪橇（§c圣§f诞§c荒§f地）",
+  "entity.vatonage:water_elemental.name": "圣诞元素",
+  "item.spawn_egg.entity.vatonage:water_elemental.name": "圣诞元素刷怪蛋（§c圣§f诞§c荒§f地）",
+  "entity.vatonage:water_wisp.name": "圣诞精灵",
+  "item.spawn_egg.entity.vatonage:water_wisp.name": "圣诞精灵刷怪蛋（§c圣§f诞§c荒§f地）",
+  "entity.vatonage:winter_monster.name": "冬季怪物",
+  "item.spawn_egg.entity.vatonage:winter_monster.name": "冬季怪物刷怪蛋（§c圣§f诞§c荒§f地）",
+  "entity.vatonage:winter_warrior.name": "冬季勇士",
+  "item.spawn_egg.entity.vatonage:winter_warrior.name": "冬季勇士刷怪蛋（§c圣§f诞§c荒§f地）",
+  "entity.vatonage:star.name": "星星",
+  "item.spawn_egg.entity.vatonage:star.name": "星星刷怪蛋（§c圣§f诞§c荒§f地）",
+  "entity.vatonage:grinch.name": "圣诞怪杰",
+  "item.spawn_egg.entity.vatonage:grinch.name": "圣诞怪杰刷怪蛋（§c圣§f诞§c荒§f地）"
+}
