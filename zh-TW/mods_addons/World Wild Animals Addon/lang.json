@@ -1,1 +1,20 @@
-{}
+{
+  "entity.m:ostrich.name": "鴕鳥",
+  "item.spawn_egg.entity.m:ostrich.name": "鴕鳥 生怪蛋",
+  "entity.m:gazelle.name": "羚羊",
+  "item.spawn_egg.entity.m:gazelle.name": "羚羊 生怪蛋",
+  "item.spawn_egg.entity.m:meerkat.name": "狐獴 生怪蛋",
+  "entity.m:meerkat.name": "狐獴",
+  "item.spawn_egg.entity.m:hippo.name": "河馬 生怪蛋",
+  "entity.m:hippo.name": "河馬",
+  "item.spawn_egg.entity.m:elephant.name": "大象 生怪蛋",
+  "entity.m:elephant.name": "大象",
+  "entity.m:bombardier_beetle.name": "龐巴迪甲蟲",
+  "item.spawn_egg.entity.m:bombardier_beetle.name": "龐巴迪甲蟲 生怪蛋",
+  "entity.m:penguin.name": "企鵝",
+  "item.spawn_egg.entity.m:penguin.name": "企鵝 生怪蛋",
+  "entity.m:seal.name": "海豹",
+  "item.spawn_egg.entity.m:seal.name": "海豹 生怪蛋",
+  "entity.m:yak.name": "犛牛",
+  "item.spawn_egg.entity.m:yak.name": "犛牛 生怪蛋"
+}
