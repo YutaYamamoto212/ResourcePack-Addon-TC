@@ -10,6 +10,7 @@ body:
         提交請求前請注意：  
         1. 此處不接受新的模組、附加包、地圖等事物的翻譯請求，請按 [這裡](https://docs.google.com/forms/d/e/1FAIpQLSdX-quuE6q4jbDxLRgwGOLsEbwNNkQ3642yhLAMGW7HnDnXlg/viewform) 提交申請。  
         2. 可以請求支援更多的語言，但需在 Java 版有支援的語言範圍內。  
+        
         感謝您抽出寶貴時間填寫此表單！  
   - type: textarea
     id: feature

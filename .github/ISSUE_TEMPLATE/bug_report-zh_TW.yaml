@@ -10,6 +10,7 @@ body:
         1. 此處僅接受此資源包本身的錯誤報告。  
         2. 如有發現翻譯錯誤，或是您有更佳品質的翻譯，請至 [Crowdin](https://crowdin.com/project/better-zhtwhk-translation) 上提交您的翻譯。  
         3. 如有發現到沒有字串被翻譯的問題，請至 Crowdin 提交您的翻譯，或是按 [這裡](https://docs.google.com/forms/d/e/1FAIpQLSdX-quuE6q4jbDxLRgwGOLsEbwNNkQ3642yhLAMGW7HnDnXlg/viewform) 前往填寫表單。  
+        
         感謝您抽出寶貴時間填寫此錯誤報告！  
   - type: textarea
     id: what-happened

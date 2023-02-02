@@ -7,10 +7,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        提交请求前请注意：    
+        提交请求前请注意：  
         1. 此处不接受新的Mod、附加包、地图等事物的翻译请求，请单击 [这里](https://docs.google.com/forms/d/e/1FAIpQLSdX-quuE6q4jbDxLRgwGOLsEbwNNkQ3642yhLAMGW7HnDnXlg/viewform) 提交申请。  
         2. 可以请求支持更多的语言，但需在 Java 版有支持的语言范围内。  
-        感谢您抽出宝贵时间填写此窗体！
+        
+        感谢您抽出宝贵时间填写此窗体！  
   - type: textarea
     id: feature
     attributes:

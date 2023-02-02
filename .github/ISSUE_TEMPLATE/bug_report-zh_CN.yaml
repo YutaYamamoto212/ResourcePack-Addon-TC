@@ -10,6 +10,7 @@ body:
         1. 此处仅接受此资源包本身的漏洞汇报。  
         2. 如有发现翻译漏洞，或是您有更高质量的翻译，请至 [Crowdin](https://crowdin.com/project/better-zhtwhk-translation) 上提交您的翻译。  
         3. 如有发现到没有字符串被翻译的问题，请至 Crowdin 提交您的翻译，或是单击 [这里](https://docs.google.com/forms/d/e/1FAIpQLSdX-quuE6q4jbDxLRgwGOLsEbwNNkQ3642yhLAMGW7HnDnXlg/viewform) 前往填写表单。  
+        
         感谢您抽出宝贵时间填写此漏洞汇报！  
   - type: textarea
     id: what-happened
