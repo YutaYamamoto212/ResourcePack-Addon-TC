@@ -1,0 +1,74 @@
+name: 漏洞汇报（繁体中文）
+description: 提交 更好的基岩版中文体验 漏洞汇报
+title: "[Bug] "
+labels: ["Bug", "Pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交汇报前请注意：  
+        1. 此处仅接受此资源包本身的漏洞汇报。  
+        2. 如有发现翻译漏洞，或是您有更高质量的翻译，请至 [Crowdin](https://crowdin.com/project/better-zhtwhk-translation) 上提交您的翻译。  
+        3. 如有发现到没有字符串被翻译的问题，请至 Crowdin 提交您的翻译，或是单击 [这里](https://docs.google.com/forms/d/e/1FAIpQLSdX-quuE6q4jbDxLRgwGOLsEbwNNkQ3642yhLAMGW7HnDnXlg/viewform) 前往填写表单。  
+        感谢您抽出宝贵时间填写此漏洞汇报！  
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 漏洞描述
+      description: 请详细描述发生的漏洞信息。
+      placeholder: 告诉我们发生了什么漏洞。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 重现步骤
+      description: 请描述触发漏洞的步骤。
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+      render: bash
+    validations:
+      required: true
+  - type: input
+    id: expected-behavior
+    attributes:
+      label: 预期行为
+      description: 请简要描述您想要的效果。
+    validations:
+      required: true
+  - type: input
+    id: actual-behavior
+    attributes:
+      label: 实际行为
+      description: 请简要说明实际结果。
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: 更好的基岩版中文体验 版本
+      description: 你目前使用的是什么版本的 更好的基岩版中文体验？（例如 1.4.5，可从附加包标题中指示的版本号中找到。如果您使用的版本未在此处列出，则您使用的版本已过期。请更新到最新版本并尝试再次重现该漏洞。）
+      options:
+        - 1.4.5
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: 你玩的是什么游戏版本？
+      description: 请输入受影响的游戏版本。
+    validations:
+      required: true
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: 您正在使用的装置的系统是什么？
+      options:
+        - Windows
+        - iOS
+        - Android
+        - 其他
+    validations:
+      required: false

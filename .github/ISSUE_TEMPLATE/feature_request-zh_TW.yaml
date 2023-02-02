@@ -1,0 +1,30 @@
+---
+name: 功能請求（繁體中文）
+description: 請求新功能
+title: "[Feature Request] "
+labels: ["Enhancement", "Pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交請求前請注意：  
+        1. 此處不接受新的模組、附加包、地圖等事物的翻譯請求，請按 [這裡](https://docs.google.com/forms/d/e/1FAIpQLSdX-quuE6q4jbDxLRgwGOLsEbwNNkQ3642yhLAMGW7HnDnXlg/viewform) 提交申請。  
+        2. 可以請求支援更多的語言，但需在 Java 版有支援的語言範圍內。  
+        感謝您抽出寶貴時間填寫此表單！  
+  - type: textarea
+    id: feature
+    attributes:
+      label: 請求說明
+      description: 請簡要描述您想要的功能。
+    validations:
+      required: true
+  - type: input
+    id: expected-behavior
+    attributes:
+      label: 替代方案
+      description: 您考慮過的替代方案或方法
+  - type: textarea
+    id: context 
+    attributes:
+      label: 補充說明
+      description: 關於此功能請求的其他說明或螢幕截圖

@@ -1,0 +1,30 @@
+---
+name: 功能请求（简体中文）
+description: 请求新功能
+title: "[Feature Request] "
+labels: ["Enhancement", "Pending"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交请求前请注意：    
+        1. 此处不接受新的Mod、附加包、地图等事物的翻译请求，请单击 [这里](https://docs.google.com/forms/d/e/1FAIpQLSdX-quuE6q4jbDxLRgwGOLsEbwNNkQ3642yhLAMGW7HnDnXlg/viewform) 提交申请。  
+        2. 可以请求支持更多的语言，但需在 Java 版有支持的语言范围内。  
+        感谢您抽出宝贵时间填写此窗体！
+  - type: textarea
+    id: feature
+    attributes:
+      label: 请求说明
+      description: 请简要描述您想要的功能。
+    validations:
+      required: true
+  - type: input
+    id: expected-behavior
+    attributes:
+      label: 替代方案
+      description: 您考虑过的替代方案或方法
+  - type: textarea
+    id: context 
+    attributes:
+      label: 补充说明
+      description: 关于此功能请求的其他说明或屏幕截图
