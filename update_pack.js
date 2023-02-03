@@ -48,7 +48,53 @@ const updatePackDataLANGFiles = (packDataDirectory) => {
 
 updatePackDataLANGFiles('pack_data');
 
-// Step 2 : Read JSON files
+// Step 2 : Update version numbers in YAML files
+const updateIssueTemplateYAMLFiles = (issueTemplateDirectory) => {
+  const files = fs.readdirSync(issueTemplateDirectory);
+
+  for (let i = 0; i < files.length; i++) {
+    const filePath = issueTemplateDirectory + '/' + files[i];
+    const fileStat = fs.statSync(filePath);
+
+    if (filePath.endsWith('.yaml')) {
+      // read the YAML file
+      let yamlString = fs.readFileSync(filePath, 'utf8');
+
+      // extract all version numbers
+      const regex = /\d+\.\d+\.\d+/g;
+      let matches;
+      while ((matches = regex.exec(yamlString)) !== null) {
+        // split the version number into its components
+        const versionComponents = matches[0].split('.').map(Number);
+
+        // increment the last component of the version number
+        versionComponents[2]++;
+
+        // if the last component is 10, set it back to 0 and increment the second component
+        if (versionComponents[2] === 10) {
+          versionComponents[2] = 0;
+          versionComponents[1]++;
+        }
+
+        // if the second component is 10, set it back to 0 and increment the first component
+        if (versionComponents[1] === 10) {
+          versionComponents[1] = 0;
+          versionComponents[0]++;
+        }
+
+        // update the version number in the YAML string
+        yamlString = yamlString.replace(matches[0], `${versionComponents.join('.')}`);
+      }
+
+      // write the updated YAML string back to the file
+      fs.writeFileSync(filePath, yamlString, 'utf8');
+    }
+  }
+};
+
+updateIssueTemplateYAMLFiles('.github/ISSUE_TEMPLATE');
+
+// Step 3 : Read JSON files
 const readJSONFiles = (path) => {
   const files = fs.readdirSync(path);
   let jsonFiles = [];
@@ -70,7 +116,7 @@ const readJSONFiles = (path) => {
   return jsonFiles;
 };
 
-// Step 3 : Check if the JSON file is valid
+// Step 4 : Check if the JSON file is valid
 const isValidJSON = (json) => {
   try {
     JSON.parse(json);
@@ -80,7 +126,7 @@ const isValidJSON = (json) => {
   }
 };
 
-// Step 4 : Convert to LANG
+// Step 5 : Convert to LANG
 const convertToLANGFormat = (json) => {
   let langString = '';
   const jsonObject = JSON.parse(json);
@@ -94,7 +140,7 @@ const convertToLANGFormat = (json) => {
   return langString;
 };
 
-// Step 5 : Merge LANG files
+// Step 6 : Merge LANG files
 const mergeLANGFiles = (langFiles) => {
   let mergedLangString = '';
 
@@ -108,13 +154,13 @@ const mergeLANGFiles = (langFiles) => {
   return mergedLangString;
 };
 
-// Step 6 : Merge Pack Data LANG files
+// Step 7 : Merge Pack Data LANG files
 const mergeWithPackDataLANGFile = (mergedLangString, packDataLANGFile) => {
   const packDataLANG = fs.readFileSync(packDataLANGFile, 'utf8');
   return `${mergedLangString}\n${packDataLANG}`;
 };
 
-// Step 7 : Setting Directories
+// Step 8 : Setting Directories
 const zhCNDirectories = ['zh-CN/maps', 'zh-CN/mods_addons', 'zh-CN/vanilla', 'zh-CN/chemistry'];
 const zhHKDirectories = ['zh-HK/maps', 'zh-HK/mods_addons', 'zh-HK/vanilla', 'zh-HK/chemistry'];
 const zhTWDirectories = ['zh-TW/maps', 'zh-TW/mods_addons', 'zh-TW/vanilla', 'zh-TW/chemistry'];
@@ -126,33 +172,33 @@ const zhHKJSONFiles = zhHKDirectories.map((dir) => readJSONFiles(dir)).flat();
 const zhTWJSONFiles = zhTWDirectories.map((dir) => readJSONFiles(dir)).flat();
 const lzhJSONFiles = lzhDirectories.map((dir) => readJSONFiles(dir)).flat();
 
-// Step 8 : Merging LANG files for each language
+// Step 9 : Merging LANG files for each language
 const zhCNMergedLangString = mergeLANGFiles(zhCNJSONFiles);
 const zhHKMergedLangString = mergeLANGFiles(zhHKJSONFiles);
 const zhTWMergedLangString = mergeLANGFiles(zhTWJSONFiles);
 const lzhMergedLangString = mergeLANGFiles(lzhJSONFiles);
 
-// Step 9 : Merging LANG files with pack data
+// Step 10 : Merging LANG files with pack data
 const zhCNMergedLangWithPackData = mergeWithPackDataLANGFile(zhCNMergedLangString, 'pack_data/zh_CN.lang');
 const zhHKMergedLangWithPackData = mergeWithPackDataLANGFile(zhHKMergedLangString, 'pack_data/zh_HK.lang');
 const zhTWMergedLangWithPackData = mergeWithPackDataLANGFile(zhTWMergedLangString, 'pack_data/zh_TW.lang');
 const lzhMergedLangWithPackData = mergeWithPackDataLANGFile(lzhMergedLangString, 'pack_data/lzh.lang');
 
-// Step 10 : Generating output LANG files
+// Step 11 : Generating output LANG files
 fs.writeFileSync('resources/texts/zh_CN.lang', zhCNMergedLangWithPackData);
 fs.writeFileSync('resources/subpacks/zh_HK/texts/zh_TW.lang', zhHKMergedLangWithPackData);
 fs.writeFileSync('resources/texts/zh_TW.lang', zhTWMergedLangWithPackData);
 fs.writeFileSync('resources/subpacks/lzh/texts/zh_TW.lang', lzhMergedLangWithPackData);
 fs.copyFileSync('pack_data/en_US.lang', 'resources/texts/en_US.lang');
 
-// Step 11 : Read the manifest.json file
+// Step 12 : Read the manifest.json file
 const manifest = JSON.parse(fs.readFileSync('resources/manifest.json', 'utf8'));
 
-// Step 12 : Generate UUIDs for updating
+// Step 13 : Generate UUIDs for updating
 manifest.header.uuid = uuidv4();
 manifest.modules[0].uuid = uuidv4();
 
-// Step 13 : Update version numbers in manifest.json files
+// Step 14 : Update version numbers in manifest.json files
 // increase the version number by 1
 const increaseVersion = (version) => {
   if (version[2] < 9) {
@@ -175,7 +221,7 @@ fs.writeFileSync('resources/manifest.json', JSON.stringify(manifest, null, 2));
 
 const resourceDirectory = 'resources';
 
-// Step 14 : Read the en_US.lang file to get the version number
+// Step 15 : Read the en_US.lang file to get the version number
 const enUsLangPath = `${resourceDirectory}/texts/en_US.lang`;
 let version = 'unknown';
 if (fs.existsSync(enUsLangPath)) {
@@ -187,7 +233,7 @@ if (fs.existsSync(enUsLangPath)) {
   }
 }
 
-// Step 15 : Create the ZIP file
+// Step 16 : Create the ZIP file
 const zipPath = `resourcepack_addon_zh_v${version}.mcpack`;
 zip(resourceDirectory, zipPath, (err) => {
   if (err) {
