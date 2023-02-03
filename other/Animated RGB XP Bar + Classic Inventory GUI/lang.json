@@ -1,0 +1,21 @@
+{
+  "map.position": "Block: %s %s %s",
+  "gui.recipebook.search_hint": "§oSearch...",
+  "gui.recipebook.toggleRecipes.all": "Showing all",
+  "gui.recipebook.toggleRecipes.craftable": "Showing craftable",
+  "gui.recipebook.toggleRecipes.smeltable": "Showing smeltable",
+  "gui.recipebook.toggleRecipes.blastable": "Showing blastable",
+  "gui.recipebook.toggleRecipes.smokable": "Showing smokable",
+  "inventory.binSlot": "Destroy Item",
+  "merchant.deprecated": "Villagers restock up to two times per day",
+  "raid.name": "Raid",
+  "raid.progress": "Raiders remaining:",
+  "raid.victory": "Victory",
+  "raid.defeat": "Defeat",
+  "bar.event.raid.name": "Raid",
+  "bar.event.raid.remaining.2": "Raid - Raiders Remaining: 2",
+  "bar.event.raid.remaining.1": "Raid - Raiders Remaining: 1",
+  "bar.event.raid.remaining.0": "Raid - Raiders Remaining: 0",
+  "bar.event.raid.victory": "Raid - Victory",
+  "bar.event.raid.defeat": "Raid - Defeat"
+}
