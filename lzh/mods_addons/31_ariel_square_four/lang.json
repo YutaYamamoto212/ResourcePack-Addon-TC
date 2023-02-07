@@ -1,12 +1,1 @@
-{
-  "item.spawn_egg.entity.ariel:black.name": "'31 愛麗兒方塊四（黑色）",
-  "item.spawn_egg.entity.ariel:operettamavue.name": "'31 愛麗兒方塊四（淡紫色輕歌劇）",
-  "item.spawn_egg.entity.ariel:pinehurstgreen.name": "'31 愛麗兒方塊四（松樹叢綠色）",
-  "item.spawn_egg.entity.ariel:red.name": "'31 愛麗兒方塊四（紅色）",
-  "item.spawn_egg.entity.ariel:white.name": "'31 愛麗兒方塊四（白色）",
-  "action.hint.exit.ariel:black": "§l§0迪茲 '31",
-  "action.hint.exit.ariel:operettamauve": "§l§5迪茲 '31",
-  "action.hint.exit.ariel:pinehurstgreen": "§l§2迪茲 '31",
-  "action.hint.exit.ariel:red": "§l§c迪茲 '31",
-  "action.hint.exit.ariel:white": "§l§f迪茲 '31"
-}
+{}
