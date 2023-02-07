@@ -1,15 +1,1 @@
-{
-  "entity.tt:creeper_magmatico_retorcido.name": "扭曲岩漿苦力怕",
-  "entity.tt:creeper_magmatico.name": "岩漿苦力怕",
-  "entity.sc:pig_nethercandy.name": "緋紅蕈豬",
-  "entity.sc:pig_nethercandy2.name": "扭曲蕈豬",
-  "entity.sc:pig_nethercandy3.name": "玄武岩豬",
-  "entity.sc:pig_nethercandy4.name": "靈魂砂豬",
-  "entity.sc:golem_carmesi.name": "緋紅蕈魔像",
-  "entity.sc:golem_carmesi2.name": "半緋紅蕈魔像",
-  "entity.sc:golem_retorcido.name": "扭曲蕈魔像",
-  "entity.sc:golem_retorcido2.name": "半扭曲蕈魔像",
-  "entity.sc:cthulhu.name": "克蘇魯之眼",
-  "entity.sc:demonio.name": "藍惡魔幽靈",
-  "entity.sc:demonio_blood.name": "血惡魔幽靈"
-}
+{}
