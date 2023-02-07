@@ -1,1 +1,21 @@
-{}
+{
+  "item.true:tin_of_beans.name": "豆罐头",
+  "item.true:tin_of_spaghetti_hoops.name": "意大利面圈罐头",
+  "item.true:tin_of_tomato_soup.name": "番茄汤罐头",
+  "item.true:tin_of_vegetable_soup.name": "蔬菜汤罐头",
+  "item.true:tin_of_chicken_soup.name": "鸡汤罐头",
+  "item.true:tin_of_mushroom_soup.name": "蘑菇汤罐头",
+  "item.true:tin_of_tuna.name": "金枪鱼罐头",
+  "item.true:tin_of_custard.name": "奶油冻罐头",
+  "item.true:tin_of_oxtail_soup.name": "牛尾汤罐头",
+  "item.true:tin_of_beef_ravioli.name": "牛肉馄饨罐头",
+  "item.true:tin_of_macaroni_cheese.name": "通心粉奶酪罐头",
+  "item.true:chocolate_poptarts.name": "巧克力馅饼",
+  "item.true:chocolate_fudge_poptarts.name": "巧克力软糖馅饼",
+  "item.true:strawberry_poptarts.name": "草莓馅饼",
+  "item.true:cookies_n_creme_poptarts.name": "曲奇和奶油馅饼",
+  "item.true:rat_raw.name": "生鼠肉",
+  "item.true:rat_cooked.name": "熟鼠肉",
+  "item.true:crow_raw.name": "生乌鸦肉",
+  "item.true:crow_cooked.name": "熟乌鸦肉"
+}
