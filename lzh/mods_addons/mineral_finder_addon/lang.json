@@ -1,12 +1,1 @@
-{
-  "item.spawn_egg.entity.mf:jhammerd.name": "§l§3鑽石傑克鎚 生怪蛋",
-  "entity.mf:jhammerd.name": "§l§3鑽石傑克鎚",
-  "item.spawn_egg.entity.mf:jhammerg.name": "§l§e黃金傑克鎚 生怪蛋",
-  "entity.mf:jhammerg.name": "§l§e黃金傑克鎚",
-  "item.spawn_egg.entity.mf:jhammeri.name": "§l§8鐵製傑克鎚 生怪蛋",
-  "entity.mf:jhammeri.name": "§l§8鐵製傑克鎚",
-  "item.spawn_egg.entity.mf:peso.name": "§l礦球 生怪蛋",
-  "entity.mf:peso.name": "§l礦球",
-  "item.spawn_egg.entity.mf:mdrill.name": "§l§a礦鑽 生怪蛋",
-  "entity.mf:mdrill.name": "§l§a礦鑽"
-}
+{}

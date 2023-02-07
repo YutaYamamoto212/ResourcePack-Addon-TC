@@ -1,13 +1,1 @@
-{
-  "tile.strat:crafting_station.name": "合成站",
-  "tile.strat:part_builder_firewood.name": "部件加工台（柴火木）",
-  "tile.strat:tool_station.name": "工具裝配站",
-  "tile.strat:tool_forge.name": "工具鍛造台（鐵）",
-  "tile.strat:tool_forge_ardite.name": "工具鍛造台（阿迪特）",
-  "tile.strat:tool_forge_cobalt.name": "工具鍛造台（鈷）",
-  "tile.strat:tool_forge_manyullyn.name": "工具鍛造台（瑪玉靈）",
-  "tile.strat:tool_forge_gold.name": "工具鍛造台（金）",
-  "tile.strat:tool_forge_copper.name": "工具鍛造台（銅）",
-  "tile.strat:tool_forge_pig_iron.name": "工具鍛造台（豬鐵）",
-  "tile.strat:firewood.name": "柴火木"
-}
+{}

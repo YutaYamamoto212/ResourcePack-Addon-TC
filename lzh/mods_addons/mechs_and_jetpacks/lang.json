@@ -1,14 +1,1 @@
-﻿{
-  "entity.goodlord:jetpack.name": "噴射背包",
-  "item.spawn_egg.entity.goodlord:jetpack.name": "噴射背包 生怪蛋",
-  "action.hint.exit.unknown": "輕觸潛行以取消乘坐",
-  "action.hint.exit.goodlord:mech": "輕觸潛行以取消乘坐",
-  "action.hint.exit.goodlord:jetpack": "輕觸潛行以取消乘坐",
-  "entity.goodlord:space_jetpack.name": "噴射背包 2.0",
-  "item.spawn_egg.entity.goodlord:space_jetpack.name": "噴射背包 2.0 生怪蛋",
-  "action.hint.exit.goodlord:mech_drill": "輕觸潛行以取消乘坐",
-  "action.hint.exit.goodlord:mech3": "輕觸潛行以取消乘坐",
-  "action.hint.exit.goodlord:space_jetpack": "輕觸潛行以取消乘坐",
-  "action.hint.exit.goodlord:large_miner": "輕觸潛行以取消乘坐",
-  "action.hint.exit.goodlord:class8_fighter": "輕觸潛行以取消乘坐"
-}
+﻿{}
