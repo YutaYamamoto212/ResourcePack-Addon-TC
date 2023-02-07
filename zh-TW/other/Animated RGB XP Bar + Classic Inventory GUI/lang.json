@@ -1,6 +1,21 @@
 {
+  "map.position": "方塊：%s, %s, %s",
+  "gui.recipebook.search_hint": "§o搜尋...",
+  "gui.recipebook.toggleRecipes.all": "已列出所有項目",
+  "gui.recipebook.toggleRecipes.craftable": "已列出可合成項目",
+  "gui.recipebook.toggleRecipes.smeltable": "已列出可熔煉項目",
+  "gui.recipebook.toggleRecipes.blastable": "已列出高爐可熔煉項目",
+  "gui.recipebook.toggleRecipes.smokable": "已列出可燻製項目",
   "inventory.binSlot": "銷毀物品",
+  "merchant.deprecated": "村民每天最多補貨兩次",
   "raid.name": "突襲",
+  "raid.progress": "剩餘敵人： ",
   "raid.victory": "勝利",
-  "raid.defeat": "失敗"
+  "raid.defeat": "失敗",
+  "bar.event.raid.name": "突襲",
+  "bar.event.raid.remaining.2": "突襲 - 剩餘敵人：2",
+  "bar.event.raid.remaining.1": "突襲 - 剩餘敵人：1",
+  "bar.event.raid.remaining.0": "突襲 - 剩餘敵人：0",
+  "bar.event.raid.victory": "突襲 - 勝利",
+  "bar.event.raid.defeat": "突襲 - 失敗"
 }
