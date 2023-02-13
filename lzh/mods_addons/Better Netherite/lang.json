@@ -36,5 +36,21 @@
   "item.b:emerald_netherite_leggings": "祖母綠玄鈺護腿",
   "item.b:emerald_netherite_boots": "祖母綠玄鈺靴",
   "item.b:iron_netherite_sword": "鐵玄鈺劍",
-  "item.b:iron_netherite_shovel": "鐵玄鈺鍁"
+  "item.b:iron_netherite_shovel": "鐵玄鈺鍁",
+  "item.b:iron_netherite_pickaxe": "鐵玄鈺鎬",
+  "item.b:iron_netherite_axe": "鐵玄鈺斧",
+  "item.b:iron_netherite_hoe": "鐵玄鈺鋤",
+  "item.b:iron_netherite_helmet": "鐵玄鈺胄",
+  "item.b:iron_netherite_chestplate": "鐵玄鈺鎧",
+  "item.b:iron_netherite_leggings": "鐵玄鈺護腿",
+  "item.b:iron_netherite_boots": "鐵玄鈺靴",
+  "item.b:diamond_netherite_sword": "金剛石玄鈺劍",
+  "item.b:diamond_netherite_shovel": "金剛石玄鈺鍁",
+  "item.b:diamond_netherite_pickaxe": "金剛石玄鈺鎬",
+  "item.b:diamond_netherite_axe": "金剛石玄鈺斧",
+  "item.b:diamond_netherite_hoe": "金剛石玄鈺鋤",
+  "item.b:diamond_netherite_helmet": "金剛石玄鈺胄",
+  "item.b:diamond_netherite_chestplate": "金剛石玄鈺鎧",
+  "item.b:diamond_netherite_leggings": "金剛石玄鈺護腿",
+  "item.b:diamond_netherite_boots": "金剛石玄鈺靴"
 }
