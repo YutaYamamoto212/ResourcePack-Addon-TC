@@ -1,4 +1,15 @@
 {
   "tile.carnival:red_gift.name": "红色礼物",
-  "tile.carnival:blue_gift.name": "蓝色礼物"
+  "tile.carnival:blue_gift.name": "蓝色礼物",
+  "tile.carnival:candy_cane.name": "拐杖糖装饰",
+  "tile.carnival:christmas_wreath.name": "圣诞花环",
+  "item.carnival:edible_candy_cane.name": "拐杖糖",
+  "item.carnival:gingerbread_cookie.name": "姜饼曲奇",
+  "item.spawn_egg.entity.carnival:red_sleigh.name": "红色雪橇",
+  "item.spawn_egg.entity.carnival:blue_sleigh.name": "蓝色雪橇",
+  "item.carnival:santa_hat": "红色圣诞帽",
+  "item.carnival:blue_hat": "蓝色圣诞帽",
+  "item.carnival:yellow_hat": "黄色圣诞帽",
+  "action.hint.exit.carnival:red_sleigh": "跳跃或潜行退出雪橇",
+  "action.hint.exit.carnival:blue_sleigh": "跳跃或潜行退出雪橇"
 }
