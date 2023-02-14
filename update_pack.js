@@ -162,9 +162,9 @@ const mergeWithPackDataLANGFile = (mergedLangString, packDataLANGFile) => {
 
 // Step 8 : Setting Directories
 const zhCNDirectories = ['zh-CN/maps', 'zh-CN/mods_addons', 'zh-CN/other', 'zh-CN/vanilla', 'zh-CN/chemistry'];
-const zhHKDirectories = ['zh-HK/maps', 'zh-HK/mods_addons', 'zh-HK/other', 'zh-HK/vanilla', 'zh-HK/chemistry'];
+const zhHKDirectories = ['zh-TW/maps', 'zh-TW/mods_addons', 'zh-TW/other', 'zh-TW/vanilla', 'zh-TW/chemistry', 'zh-HK/maps', 'zh-HK/mods_addons', 'zh-HK/other', 'zh-HK/vanilla', 'zh-HK/chemistry'];  // If there is no translation for Traditional Chinese (Hong Kong SAR), the translation for Traditional Chinese (Taiwan) will be read.
 const zhTWDirectories = ['zh-TW/maps', 'zh-TW/mods_addons', 'zh-TW/other', 'zh-TW/vanilla', 'zh-TW/chemistry'];
-const lzhDirectories = ['lzh/maps', 'lzh/mods_addons', 'lzh/other', 'lzh/vanilla', 'lzh/chemistry'];
+const lzhDirectories = ['zh-TW/maps', 'zh-TW/mods_addons', 'zh-TW/other', 'zh-TW/vanilla', 'zh-TW/chemistry', 'lzh/maps', 'lzh/mods_addons', 'lzh/other', 'lzh/vanilla', 'lzh/chemistry'];  // If there is no translation for Classical Chinese (Hua Xia), the translation for Traditional Chinese (Taiwan) will be read.
 
 // use the readJSONFiles function to get the array of JSON files for each language
 const zhCNJSONFiles = zhCNDirectories.map((dir) => readJSONFiles(dir)).flat();
