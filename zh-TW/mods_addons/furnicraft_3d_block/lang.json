@@ -44,6 +44,8 @@
   "item.bed.orange.name": "橙色床（家具附加包）",
   "item.bed.white.name": "白色床（家具附加包）",
   "item.painting.name": "繪畫（家具附加包）",
+  "item.spawn_egg.entity.furnicraft:nevera_chest.name": "家具附加包",
+  "item.spawn_egg.entity.furnicraft:npc_special.name": "家具附加包-非玩家角色 内容創作者",
   "item.spawn_egg.entity.furnicraft:npc_female.name": "女性NPC （家具附加包）",
   "item.spawn_egg.entity.furnicraft:npc_male.name": "男性NPC （家具附加包）",
   "item.spawn_egg.entity.furnicraft:npc_female_baby.name": "NPC女嬰兒（家具附加包）",
