@@ -1,1 +1,5 @@
-{}
+{
+  "item.new:blaze_bow": "烈焰弓",
+  "item.new:ender_bow": "末影弓",
+  "item.new:remote_bow": "矿工弓"
+}
