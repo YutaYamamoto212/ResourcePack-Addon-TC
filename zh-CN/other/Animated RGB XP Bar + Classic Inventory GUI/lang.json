@@ -1,6 +1,21 @@
 {
+  "map.position": "方块：%s %s %s",
+  "gui.recipebook.search_hint": "§o搜索...",
+  "gui.recipebook.toggleRecipes.all": "显示全部",
+  "gui.recipebook.toggleRecipes.craftable": "仅显示可合成",
+  "gui.recipebook.toggleRecipes.smeltable": "仅显示可烧炼",
+  "gui.recipebook.toggleRecipes.blastable": "仅显示可冶炼",
+  "gui.recipebook.toggleRecipes.smokable": "仅显示可熏制",
   "inventory.binSlot": "摧毁物品",
+  "merchant.deprecated": "村民每天最多补货两次",
   "raid.name": "袭击",
+  "raid.progress": "剩余袭击者：",
   "raid.victory": "胜利",
-  "raid.defeat": "失败"
+  "raid.defeat": "失败",
+  "bar.event.raid.name": "袭击",
+  "bar.event.raid.remaining.2": "袭击 - 剩余2名袭击者",
+  "bar.event.raid.remaining.1": "袭击 - 剩余1名袭击者",
+  "bar.event.raid.remaining.0": "袭击 - 剩余0名袭击者",
+  "bar.event.raid.victory": "袭击 - 胜利",
+  "bar.event.raid.defeat": "袭击 - 失败"
 }
