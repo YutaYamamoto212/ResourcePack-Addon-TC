@@ -3587,8 +3587,6 @@
   "hbui.CreateNewWorld.advanced.respawnRadiusPlaceholder": "5",
   "hbui.CreateNewWorld.advanced.showCoordinatesDescription": "顯示目前位置",
   "hbui.CreateNewWorld.advanced.showCoordinatesTitle": "顯示座標",
-  "hbui.CreateNewWorld.advanced.simulationDistanceDescription": "遊戲載入並套用來自玩家嘅 %1$sx%1$s 個區塊範圍內嘅變化",
-  "hbui.CreateNewWorld.advanced.simulationDistanceDescriptionOnlyOne": "您嘅裝置只允許 %2$s 個區塊嘅模擬距離。這意味著遊戲會載入並套用來自玩家嘅 %1$sx%1$s 個區塊範圍內嘅變更",
   "hbui.CreateNewWorld.advanced.simulationDistanceOption": "%1$s 個區塊",
   "hbui.CreateNewWorld.advanced.simulationDistanceTitle": "模擬距離",
   "hbui.CreateNewWorld.advanced.startWithMapDescription": "用空白地圖生成探索您嘅世界",
