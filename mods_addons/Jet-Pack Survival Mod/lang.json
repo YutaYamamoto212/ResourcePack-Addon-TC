@@ -1,0 +1,5 @@
+{
+  "entity.bbs:jet_pack.name": "§7Minecraft §3Jet-Pack",
+  "item.spawn_egg.entity.bbs:jet_pack.name": "§7Minecraft §3Jet-Pack",
+  "action.hint.exit.bbs:jet_pack": "Jet-Pack activate"
+}
