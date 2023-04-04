@@ -1,1 +1,5 @@
-{}
+{
+  "entity.bbs:jet_pack.name": "§7Minecraft §3噴射背包",
+  "item.spawn_egg.entity.bbs:jet_pack.name": "§7Minecraft §3噴射背包",
+  "action.hint.exit.bbs:jet_pack": "噴射背包已啟動"
+}
