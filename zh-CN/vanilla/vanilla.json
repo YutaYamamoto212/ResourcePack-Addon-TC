@@ -1525,7 +1525,6 @@
   "container.smithing_table": "锻造台",
   "container.smithing_table.arrow_tooltip_cannot_craft": "无法以此方式升级物品",
   "container.smithing_table.input_slot_tooltip_armor_trim": "添加盔甲",
-  "container.smithing_table.input_slot_tooltip_netherite": "添加钻石盔甲、武器或工具",
   "container.smithing_table.material_slot_tooltip_armor_trim": "添加铸锭或晶体",
   "container.smithing_table.material_slot_tooltip_netherite": "添加下界合金锭",
   "container.smithing_table.template_slot_tooltip": "添加锻造模板",
