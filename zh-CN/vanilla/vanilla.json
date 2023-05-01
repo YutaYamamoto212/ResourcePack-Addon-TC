@@ -10022,7 +10022,6 @@
   "storageManager.multiselectDelete": "删除",
   "storageManager.multiselectShare": "共享",
   "storageManager.share.compress": "正在压缩选中的资源…",
-  "storageManager.share.totalPercent": "100%",
   "storageManager.shareTitle": "导出资源",
   "storageManager.sortDateOldest": "已使用数据 - 按从远到近排列",
   "storageManager.sortDateRecent": "已使用数据 - 按从近到远排列",

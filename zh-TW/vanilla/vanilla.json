@@ -10022,7 +10022,6 @@
   "storageManager.multiselectDelete": "刪除",
   "storageManager.multiselectShare": "分享",
   "storageManager.share.compress": "正在壓縮所選的資源...",
-  "storageManager.share.totalPercent": "100%",
   "storageManager.shareTitle": "匯出資源",
   "storageManager.sortDateOldest": "使用的日期 - 最久的在前",
   "storageManager.sortDateRecent": "使用的日期 - 最近的在前",
