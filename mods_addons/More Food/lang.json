@@ -39,5 +39,17 @@
   "item.morefood:pumpkin_lollies.name": "Pumpkin Lollies",
   "item.morefood:burger_bread.name": "Burger Bread",
   "item.morefood:meat_burger.name": "Meat Burger",
-  "item.morefood:meat_egg_burger.name": "Meat Egg Burger"
+  "item.morefood:meat_egg_burger.name": "Meat Egg Burger",
+  "item.morefood:raw_hoglin_meat.name": "Raw Hoglin Meat",
+  "item.morefood:raw_strider_meat.name": "Raw Strider Meat",
+  "item.morefood:cooked_hoglin_meat.name": "Cooked Hoglin Meat",
+  "item.morefood:cooked_strider_meat.name": "Cooked Strider Meat",
+  "item.morefood:mashed_potatoes_hoglin.name": "Mashed Potatoes Hoglin",
+  "item.morefood:mashed_potatoes_strider.name": "Mashed Potatoes Strider",
+  "item.morefood:soup_crimson.name": "Crimson Soup",
+  "item.morefood:soup_warped.name": "Warped Soup",
+  "item.morefood:soup_nether.name": "Nether Soup",
+  "item.morefood:fungus_cooked_hoglin.name": "Fungus Cooked Hoglin",
+  "item.morefood:fungus_cooked_strider.name": "Fungus Cooked Strider",
+  "item.morefood:nether_cooked_hoglin.name": "Nether Cooked Hoglin"
 }
