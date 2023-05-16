@@ -1,1 +1,21 @@
-{}
+{
+  "entity.nicothekid:crates_trader.name": "板条箱商人",
+  "item.spawn_egg.entity.nicothekid:crates_trader.name": "板条箱商人刷怪蛋",
+  "item.nicothekid:copper_crate_key.name": "铜板条箱钥匙",
+  "item.nicothekid:diamond_crate_key.name": "钻石板条箱钥匙",
+  "item.nicothekid:flint_axe.name": "燧石斧",
+  "item.nicothekid:golden_crate_key.name": "金板条箱钥匙",
+  "item.nicothekid:iron_crate_key.name": "铁板条箱钥匙",
+  "tile.nicothekid:spawner_crates_trader.name": "板条箱商人刷怪笼",
+  "tile.nicothekid:copper_crate.name": "铜板条箱",
+  "tile.nicothekid:diamond_crate.name": "钻石板条箱",
+  "tile.nicothekid:golden_crate.name": "金板条箱",
+  "tile.nicothekid:iron_crate.name": "铁板条箱",
+  "tile.nicothekid:wooden_acacia_crate.name": "金合欢木板条箱",
+  "tile.nicothekid:wooden_birch_crate.name": "白桦木板条箱",
+  "tile.nicothekid:wooden_dark_oak_crate.name": "深色橡木板条箱",
+  "tile.nicothekid:wooden_jungle_crate.name": "丛林木板条箱",
+  "tile.nicothekid:wooden_mangrove_crate.name": "红树木板条箱",
+  "tile.nicothekid:wooden_oak_crate.name": "橡木板条箱",
+  "tile.nicothekid:wooden_spruce_crate.name": "云杉木板条箱"
+}
