@@ -39,5 +39,17 @@
   "item.morefood:pumpkin_lollies.name": "南瓜棒棒糖",
   "item.morefood:burger_bread.name": "漢堡包",
   "item.morefood:meat_burger.name": "肉餅",
-  "item.morefood:meat_egg_burger.name": "肉蛋漢堡"
+  "item.morefood:meat_egg_burger.name": "肉蛋漢堡",
+  "item.morefood:raw_hoglin_meat.name": "生豬布獸肉",
+  "item.morefood:raw_strider_meat.name": "生熾足獸肉",
+  "item.morefood:cooked_hoglin_meat.name": "烤豬布獸肉",
+  "item.morefood:cooked_strider_meat.name": "烤熾足獸肉",
+  "item.morefood:mashed_potatoes_hoglin.name": "馬鈴薯泥佐豬布獸肉",
+  "item.morefood:mashed_potatoes_strider.name": "馬鈴薯泥佐熾足獸肉",
+  "item.morefood:soup_crimson.name": "緋紅蕈湯",
+  "item.morefood:soup_warped.name": "扭曲蕈湯",
+  "item.morefood:soup_nether.name": "地獄湯",
+  "item.morefood:fungus_cooked_hoglin.name": "蕈菇烤豬布獸肉",
+  "item.morefood:fungus_cooked_strider.name": "蕈菇烤熾足獸肉",
+  "item.morefood:nether_cooked_hoglin.name": "地獄烤豬布獸肉"
 }
