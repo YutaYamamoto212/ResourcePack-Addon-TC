@@ -174,5 +174,16 @@
   "rg.termsOfuse.text8": "附加包的所有著作權和其他所有權聲明必須保留在其所有副本中。",
   "rg.termsOfuse.text9": "Copyright ©. 著作權所有，並保留一切權利。此附加包上顯示的所有圖示、圖像和紋理都是我的財產。您已允許使用它們並加入到您自己的專案中必須使用適當的信用。",
   "rg.termsOfuse.text10": "聯絡資訊",
-  "rg.termsOfuse.text11": "電子郵件：vechrozilator@gmail.com"
+  "rg.termsOfuse.text11": "電子郵件：vechrozilator@gmail.com",
+  "circuits.header.title0": "什麼是電路？",
+  "circuits.header.title1": "電路類型",
+  "rg.circuits.text0": "紅石電路是一種啟動或控制機制的結構。",
+  "rg.circuits.text1": "電路設計用於回應玩家啟動或在循環中自主運作，或回應非玩家活動，如生物移動、物品掉落、植物生長等。由紅石電路控制的機制範圍從自動門和電燈開關等簡單設備到電梯、自動農場甚至遊戲中的電腦等複雜裝置。了解如何建造和使用紅石電路以及它們可以控制的機制大大增加了 Minecraft 的可能性範圍。",
+  "rg.circuits.text2": "由於可以創造的紅石電路種類繁多，因此紅石結構的主題非常廣泛。本指南僅概述了一些可以建造的不同類型的紅石電路。",
+  "rg.circuits.text3": "儘管構造電路的方法有無數種，但某些構造模式會反覆出現。以下類別和部分嘗試對對 Minecraft 社群有用的電路進行分類，而本指南描述了屬於這些類別的特定電路。",
+  "rg.circuits.text4": "本指南中的某些電路範例可能會單獨用於簡單控制機制，但玩家通常需要將它們組合成更複雜的電路以滿足機制的需要。",
+  "rg.transmissionCircuit.text0": "§e傳輸電路",
+  "rg.transmissionCircuit.text1": "傳輸電路是一種紅石電路，它允許紅石信號從一個地方傳送到另一個地方。",
+  "rg.transmissionCircuit.text2": "信號傳輸的某些方面可能有助於理解：傳輸類型、垂直傳輸、中繼器和二極體。",
+  "rg.logicCircuit.text0": "§e邏輯電路"
 }
