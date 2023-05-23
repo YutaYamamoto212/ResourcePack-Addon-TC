@@ -14,5 +14,13 @@
   "item.morph:wither_skull": "凋零頭顱",
   "entity.morph:wither_skull.name": "凋零頭顱",
   "item.morph:wither_skull_dangerous": "危險的凋零頭顱",
-  "entity.morph:wither_skull_dangerous.name": "凋零頭顱"
+  "entity.morph:wither_skull_dangerous.name": "凋零頭顱",
+  "item.morph:unusable_potion": "無法使用的藥水",
+  "item.morph:unusable_splash_potion": "飛濺 無法使用的藥水",
+  "item.morph:unusable_lingering_potion": "滯留 無法使用的藥水",
+  "item.morph:ghast_fireball": "火球",
+  "entity.morph:fireball.name": "火球",
+  "item.morph:evoker_fang": "喚魔者尖牙",
+  "entity.cd:ohio_snowball.name": "俄亥俄雪球",
+  "item.cd:ohio_snowball": "俄亥俄雪球"
 }
