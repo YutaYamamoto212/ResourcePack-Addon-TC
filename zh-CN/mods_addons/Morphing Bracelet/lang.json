@@ -1,1 +1,26 @@
-{}
+{
+  "item.morph:morphing_bracelet": "变形手镯",
+  "item.morph:souls_in_a_glass": "玻璃中的灵魂",
+  "entity.morph:souls_in_a_glass.name": "玻璃中的灵魂",
+  "item.morph:morphing_bracelet.empty": "变形手镯为空。通过杀死生物来收集它们来使用这个物品",
+  "chat.mob_item.duration": "您不能在 %s 秒内使用此物品",
+  "entity.morph:explode.name": "爆炸",
+  "item.morph:teleportation": "§d传送§r",
+  "item.morph:snow_golem_ball": "雪球",
+  "item.morph:blaze_fireball": "火球",
+  "entity.morph:blaze_fireball.name": "火球",
+  "item.morph:llama_spit": "羊驼唾沫",
+  "entity.morph:llama_spit.name": "羊驼唾沫",
+  "item.morph:wither_skull": "凋灵之首",
+  "entity.morph:wither_skull.name": "凋灵之首",
+  "item.morph:wither_skull_dangerous": "危险的凋灵之首",
+  "entity.morph:wither_skull_dangerous.name": "凋灵之首",
+  "item.morph:unusable_potion": "无法使用的药水",
+  "item.morph:unusable_splash_potion": "喷溅型无法使用的药水",
+  "item.morph:unusable_lingering_potion": "滞留型无法使用的药水",
+  "item.morph:ghast_fireball": "火球",
+  "entity.morph:fireball.name": "火球",
+  "item.morph:evoker_fang": "唤魔者尖牙",
+  "entity.cd:ohio_snowball.name": "俄亥俄雪球",
+  "item.cd:ohio_snowball": "俄亥俄雪球"
+}

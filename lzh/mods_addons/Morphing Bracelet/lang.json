@@ -1,1 +1,13 @@
-{}
+{
+  "item.morph:snow_golem_ball": "雪團",
+  "item.morph:blaze_fireball": "火圓",
+  "entity.morph:blaze_fireball.name": "火圓",
+  "item.morph:llama_spit": "美洲駝涎",
+  "entity.morph:llama_spit.name": "美洲駝涎",
+  "item.morph:wither_skull": "凋靈首",
+  "entity.morph:wither_skull.name": "凋靈首",
+  "entity.morph:wither_skull_dangerous.name": "凋靈首",
+  "item.morph:ghast_fireball": "火圓",
+  "entity.morph:fireball.name": "火圓",
+  "item.morph:evoker_fang": "魔齒"
+}
