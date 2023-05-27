@@ -3,11 +3,11 @@
   "header": {
     "name": "pack.name",
     "description": "pack.description",
-    "uuid": "2b9bf8c0-e395-4c0c-9045-7d9e15f96ef1",
+    "uuid": "2790d929-1e59-4373-b84a-99cfb2c6aeaf",
     "version": [
       1,
       6,
-      0
+      1
     ],
     "min_engine_version": [
       1,
@@ -18,11 +18,11 @@
   "modules": [
     {
       "type": "resources",
-      "uuid": "17e61624-b459-4f7a-b28e-51fb30e0635d",
+      "uuid": "735a7a7f-9e77-44d7-bc58-2c71fe90f82f",
       "version": [
         1,
         6,
-        0
+        1
       ]
     }
   ],
