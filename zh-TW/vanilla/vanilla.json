@@ -1250,7 +1250,6 @@
   "commands.screenshake.success": "向下列玩家發送要求，要求對相機進行晃動：%s",
   "commands.screenshake.successStop": "停止以下玩家的相機晃動：%s",
   "commands.scriptevent.description": "觸發帶有 ID 和訊息的指令碼事件。",
-  "commands.scriptevent.invalidNamespace": "識別碼必須存在，並且不得使用 Minecraft 命名空間",
   "commands.scriptevent.messageSizeExceed": "訊息長度超過（%1$d）字元限制！",
   "commands.seed.success": "世界種子碼：[§a%1$s§r]",
   "commands.selector.error.moreThanOne": "僅接受單一實體，但提供的選擇器允許不只一個實體",
