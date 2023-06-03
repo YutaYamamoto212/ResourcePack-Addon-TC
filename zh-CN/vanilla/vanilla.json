@@ -1250,7 +1250,6 @@
   "commands.screenshake.success": "向以下玩家发送请求，要求摇晃其相机：%s",
   "commands.screenshake.successStop": "停止以下玩家的相机摇晃：%s",
   "commands.scriptevent.description": "使用 ID 和消息触发脚本事件。",
-  "commands.scriptevent.invalidNamespace": "标识符必须存在并且不能使用 Minecraft 命名空间",
   "commands.scriptevent.messageSizeExceed": "消息长度超过（%1$d）个字符限制！",
   "commands.seed.success": "种子：[§a%1$s§r]",
   "commands.selector.error.moreThanOne": "只允许一个实体，但提供的选择器允许多个实体",
