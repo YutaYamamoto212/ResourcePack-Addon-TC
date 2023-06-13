@@ -1,1 +1,4 @@
-{}
+{
+  "tile.mship:floating_point.name": "漂浮点",
+  "action.hint.exit.mship:ship": "离开船"
+}
