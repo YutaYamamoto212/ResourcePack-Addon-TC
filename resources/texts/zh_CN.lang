@@ -6007,6 +6007,8 @@ tile.mw:pillar_top_stripped_spruce_log1.name=去皮云杉木柱顶部（类型 1
 tile.mw:stack_fish_salmon1.name=鲑鱼堆 1
 tile.mw:trident1.name=§3三叉戟
 tile.mw:shield1.name=§7盾牌
+tile.mship:floating_point.name=漂浮点
+action.hint.exit.mship:ship=离开船
 item.yes:amethyst_boots.name=紫水晶靴子
 item.yes:amethyst_chestplate.name=紫水晶胸甲
 item.yes:amethyst_helmet.name=紫水晶头盔
@@ -23127,6 +23129,6 @@ tile.materialreducer.name=材料分解器
 tile.underwater_tnt.name=水下TNT
 tile.underwater_torch.name=水下火把
 
-pack.name=更好的基岩版中文体验 v1.6.3
+pack.name=更好的基岩版中文体验 v1.6.4
 pack.description=本资源包旨在提供中文玩家更佳的体验，不仅将原版所有的用词改成与Java版和Minecraft Wiki的相同，并且修正了大量不正确甚至荒谬的翻译。另外，也提供一些Mod、附加包、地图、界面包的翻译，还有加入了两个语言——繁体中文（香港）及实验性的文言（华夏）。欢迎加入我的Discord服务器进行讨论： https://discord.gg/tqzdEaBAcn
-menu.copyright=©Mojang AB  翻译资源包版本：1.6.3  欢迎加入 Discord 参与讨论： https://discord.gg/tqzdEaBAcn
+menu.copyright=©Mojang AB  翻译资源包版本：1.6.4  欢迎加入 Discord 参与讨论： https://discord.gg/tqzdEaBAcn
