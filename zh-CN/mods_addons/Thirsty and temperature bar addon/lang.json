@@ -1,1 +1,6 @@
-{}
+{
+  "tile.mod:hotoff.name": "热方块/关",
+  "tile.mod:coldoff.name": "冷方块/关",
+  "tile.mod:coldblock.name": "冷方块",
+  "tile.mod:hotblock.name": "热方块"
+}
