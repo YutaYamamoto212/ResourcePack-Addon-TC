@@ -1,0 +1,6 @@
+{
+  "tile.mod:hotoff.name": "Hot block / off",
+  "tile.mod:coldoff.name": "Cold block / off",
+  "tile.mod:coldblock.name": "Cold block",
+  "tile.mod:hotblock.name": "Hot block"
+}
