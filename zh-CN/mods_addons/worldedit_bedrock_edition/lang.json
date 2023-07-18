@@ -165,7 +165,6 @@
   "commands.wedit:set.description": "用填充方块来填满选取的区域",
   "commands.wedit:shift.description": "转移选择区域",
   "commands.wedit:shift.explain": "区域已位移。",
-  "commands.wedit:size.description": "设置画笔的大小",
   "commands.wedit:snow.description": "仿真该区域的降雪",
   "commands.wedit:thaw.description": "融化暴露在天空中的冰雪",
   "commands.wedit:stack.description": "重复目前选择的内容",
