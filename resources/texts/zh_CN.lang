@@ -10388,7 +10388,6 @@ commands.wedit:sel.sphere=球体选择器：潜行时点击中心，不潜行时
 commands.wedit:set.description=用填充方块来填满选取的区域
 commands.wedit:shift.description=转移选择区域
 commands.wedit:shift.explain=区域已位移。
-commands.wedit:size.description=设置画笔的大小
 commands.wedit:snow.description=仿真该区域的降雪
 commands.wedit:thaw.description=融化暴露在天空中的冰雪
 commands.wedit:stack.description=重复目前选择的内容
@@ -23258,6 +23257,6 @@ tile.materialreducer.name=材料分解器
 tile.underwater_tnt.name=水下TNT
 tile.underwater_torch.name=水下火把
 
-pack.name=更好的基岩版中文体验 v1.6.8
+pack.name=更好的基岩版中文体验 v1.6.9
 pack.description=本资源包旨在提供中文玩家更佳的体验，不仅将原版所有的用词改成与Java版和Minecraft Wiki的相同，并且修正了大量不正确甚至荒谬的翻译。另外，也提供一些Mod、附加包、地图、界面包的翻译，还有加入了两个语言——繁体中文（香港）及实验性的文言（华夏）。欢迎加入我的Discord服务器进行讨论： https://discord.gg/tqzdEaBAcn
-menu.copyright=©Mojang AB  翻译资源包版本：1.6.8  欢迎加入 Discord 参与讨论： https://discord.gg/tqzdEaBAcn
+menu.copyright=©Mojang AB  翻译资源包版本：1.6.9  欢迎加入 Discord 参与讨论： https://discord.gg/tqzdEaBAcn
