@@ -1,4 +1,7 @@
 {
+  "action.interact.balloon": "安",
+  "action.interact.unballoon": "卸",
+  "compoundcreator.title": "化合物创器",
   "item.compound.aluminumoxide.name": "氧化鋁",
   "item.compound.ammonia.name": "氨",
   "item.compound.bariumsulfate.name": "硫酸鋇",
