@@ -16048,7 +16048,7 @@
   "resourcePack.editor.menuBar.view.tooltip": "檢視可在編輯器中顯示選單的選項清單。",
   "resourcePack.editor.menuBar.worldOptions": "世界",
   "resourcePack.editor.menuBar.worldOptions.changeDimension": "維度",
-  "resourcePack.editor.menuBar.worldOptions.changeDimension.end": "終界行",
+  "resourcePack.editor.menuBar.worldOptions.changeDimension.end": "終界",
   "resourcePack.editor.menuBar.worldOptions.changeDimension.nether": "地獄",
   "resourcePack.editor.menuBar.worldOptions.changeDimension.overworld": "主世界",
   "resourcePack.editor.menuBar.worldOptions.changeDimension.tooltip": "變更目前的維度。",
