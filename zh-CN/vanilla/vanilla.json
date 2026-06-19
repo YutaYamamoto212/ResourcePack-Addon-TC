@@ -140,7 +140,7 @@
   "accessibility.screenName.error": "错误界面",
   "accessibility.screenName.howToPlay": "游戏指南界面",
   "accessibility.screenName.inventory": "物品栏",
-  "accessibility.screenName.inventory.creative": "创造物品栏",
+  "accessibility.screenName.inventory.creative": "创造模式物品栏",
   "accessibility.screenName.inventory.workbench": "工作台",
   "accessibility.screenName.inviteToGame": "邀请至游戏界面",
   "accessibility.screenName.joinByConnectionID": "通过连接ID对话框加入",
